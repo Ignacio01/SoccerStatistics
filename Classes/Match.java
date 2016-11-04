@@ -4,6 +4,15 @@ import java.util.Date;
 
 /**
  * Created by ignacioojanguren on 3/11/16.
+ *
+ * Match class contains the values from a match
+ *  DateMatch is when the game is played.
+ *  Season means the year of the league ex 2016-2017
+ *  LocalTeam is the team that plays in their home
+ *  VisitTeam is the team that plays in the other's team home
+ *  Results is the final result of the match.
+ *
+ * This class contains the getters and setters to obtain the previous valious.
  */
 public class Match {
     private Date dateMatch;
