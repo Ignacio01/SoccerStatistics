@@ -2,7 +2,7 @@ package Classes;
 
 /**
  * Created by ignacioojanguren on 3/11/16.
- * 
+ *
  * This class contains the data of a player
  *  A player has a name.
  *  A player plays in a team.

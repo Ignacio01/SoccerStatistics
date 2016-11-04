@@ -1,0 +1,111 @@
+#dateMatch;season;localTeam;visitantTeam;result;
+#Jornada 1
+08/20/16;2016-2017;Málaga;Osasuna;1-1
+08/20/16;2016-2017;Deportivo;Eibar;2-1
+08/20/16;2016-2017;Barcelona;Betis;6-2
+08/20/16;2016-2017;Granada;Villareal;1-1
+08/20/16;2016-2017;Sevilla;Espanyol;6-4
+08/20/16;2016-2017;Sorting;Athletic de Bilbao;2-1
+08/20/16;2016-2017;Real Sociedad; Real Madrid; 0-3
+08/20/16;2016-2017;Atlético de Madrid;Alavés;1-1
+08/20/16;2016-2017;Celta;Leganés;0-1
+08/20/16;2016-2017;Valencia;Las Palmas;2-4
+#Jornada 2
+08/27/16;2016-2017;Betis;Deportivo;0-0
+08/27/16;2016-2017;Espanyol;Málaga;2-2
+08/27/16;2016-2017;Osasuna;Real Sociedad;0-2
+08/27/16;2016-2017;Eibar;Valencia;1-0
+08/27/16;2016-2017;Real Madrid;Celta;2-1
+08/27/16;2016-2017;Leganés;Atlético de Madrid;0-0
+08/27/16;2016-2017;Las Palmas;Granada;5-1
+08/27/16;2016-2017;Alavés;Sporting;0-0
+08/27/16;2016-2017;Athletic de Bilbao;Barcelona;0-1
+08/27/16;2016-2017;Villareal;Sevilla;0-0
+#Jornada 3
+09/10/16;2016-2017;Real Sociedad;Espanyol;1-1
+09/10/16;2016-2017;Celta;Atlético de Madrid;0-4
+09/10/16;2016-2017;Real Madrid;Osasuna;5-2
+09/10/16;2016-2017;Sevilla;Las Palmas;2-1
+09/10/16;2016-2017;Málaga;Villarreal;0-2
+09/10/16;2016-2017;Barcelona;Alavés;1-2
+09/10/16;2016-2017;Sporting;Leganés;2-1
+09/10/16;2016-2017;Valencia;Betis;2-3
+09/10/16;2016-2017;Granada;Eibar;1-2
+09/10/16;2016-2017;Deportivo;Athletic de Bilbao;0-1
+#Jornada 4
+09/17/16;2016-2017;Betis;Granada;2-2
+09/17/16;2016-2017;Leganés;Barcelona;1-5
+09/17/16;2016-2017;Atlético de Madrid;Sporting;5-0
+09/17/16;2016-2017;Eibar;Sevilla;1-1
+09/17/16;2016-2017;Las Palmas;Málaga;1-0
+09/17/16;2016-2017;Osasuna;Celta;0-0
+09/17/16;2016-2017;Athletic de Bilbao;Valencia;2-1
+09/17/16;2016-2017;Villarreal;Real Sociedad;2-1
+09/17/16;2016-2017;Espanyol;Real Madrid;0-2
+09/17/16;2016-2017;Alavés;Deportivo;0-0
+#Jornada 5
+09/21/16;2016-2017;Málaga;Eibar;2-1
+09/21/16;2016-2017;Sevilla;Betis;1-0
+09/21/16;2016-2017;Celta;Sporting;2-1
+09/21/16;2016-2017;Real Madrid;Villareal;1-1
+09/21/16;2016-2017;Barcelona;Atlético de Madrid;1-1
+09/21/16;2016-2017;Granada;Athletic de Bilbao;1-2
+09/21/16;2016-2017;Real Sociedad;Las Palmas;4-1
+09/21/16;2016-2017;Deportivo;Leganés;1-2
+09/21/16;2016-2017;Osasuna;Espanyol;1-2
+09/21/16;2016-2017;Valencia;Alavés;2-1
+#Jornada 6
+09/24/16;2016-2017;Betis;Málaga;1-0
+09/24/16;2016-2017;Eibar;Real Sociedad;2-0
+09/24/16;2016-2017;Sporting;Barcelona;0-5
+09/24/16;2016-2017;Athletic de Bilbao;Sevilla;3-1
+09/24/16;2016-2017;Las Palmas;Real Madrid;2-2
+09/24/16;2016-2017;Leganés;Valencia;1-2
+09/24/16;2016-2017;Atlético de Madrid;Deportivo;1-0
+09/24/16;2016-2017;Villarreal;Osasuna;3-1
+09/24/16;2016-2017;Espanyol;Celta;0-2
+09/24/16;2016-2017;Alavés;Granada;3-1
+#Jornada 7
+10/01/16;2016-2017;Real Sociedad;Betis;1-0
+10/01/16;2016-2017;Granada;Leganés;0-1
+10/01/16;2016-2017;Sevilla;Alavés;2-1
+10/01/16;2016-2017;Osasuna;Las Palmas;2-2
+10/01/16;2016-2017;Deportivo;Sporting;2-1
+10/01/16;2016-2017;Valencia;Atlético de Madrid;0-2
+10/01/16;2016-2017;Real Madrid;Eibar;1-1
+10/01/16;2016-2017;Málaga;Athletic de Bilbao;2-1
+10/01/16;2016-2017;Espanyol;Villarreal;0-0
+10/01/16;2016-2017;Celta;Barcelona;4-3
+#Jornada 8
+10/15/16;2016-2017;Las Palmas;Espanyol;0-0
+10/15/16;2016-2017;Leganés;Sevilla;2-3
+10/15/16;2016-2017;Barcelona;Deportivo;4-0
+10/15/16;2016-2017;Atlético de Madrid;Granada;7-1
+10/15/16;2016-2017;Betis;Real Madrid;1-6
+10/15/16;2016-2017;Alavés;Málaga;1-1
+10/15/16;2016-2017;Athletic de Bilbao;Real Sociedad;3-2
+10/15/16;2016-2017;Sporting;Valencia;1-2
+10/15/16;2016-2017;Villarreal;Celta;5-0
+10/15/16;2016-2017;Eibar;Osasuna;2-3
+#Jornada 9
+10/22/16;2016-2017;Osasuna;Betis;1-2
+10/22/16;2016-2017;Espanyol;Eibar;3-3
+10/22/16;2016-2017;Valencia;Barcelona;2-3
+10/22/16;2016-2017;Real Sociedad;Alavés;3-0
+10/22/16;2016-2017;Granada;Sporting;0-0
+10/22/16;2016-2017;Celta;Deportivo;4-1
+10/22/16;2016-2017;Sevilla;Atlético de Madrid;1-0
+10/22/16;2016-2017;Málaga;Leganés;4-0
+10/22/16;2016-2017;Villarreal;Las Palmas2-1
+10/22/16;2016-2017;Real Madrid;Athletic de Bilbao;2-1
+#Jornada 10
+10/29/16;2016-2017;Leganés;Real Sociedad;0-2
+10/29/16;2016-2017;Sporting;Sevilla;1-1
+10/29/16;2016-2017;Alavés;Real Madrid;1-4
+10/29/16;2016-2017;Atlético de Madrid;Málaga;4-2
+10/29/16;2016-2017;Barcelona;Granada;1-0
+10/29/16;2016-2017;Eibar;Villarreal;2-1
+10/29/16;2016-2017;Athletic de Bilbao;Osasuna;1-1
+10/29/16;2016-2017;Betis;Espanyol;0-1
+10/29/16;2016-2017;Las Palmas;Celta;3-3
+10/29/16;2016-2017;Deportivo;Valencia;1-1

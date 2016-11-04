@@ -39,4 +39,7 @@ public class Match {
     public void setResult(String result) {this.result = result;}
     public void setSeason(String season) {this.season = season;}
     public void setVisitantTeam(Team visitantTeam) {this.visitantTeam = visitantTeam;}
+
+    @Override
+    public String toString(){return dateMatch + ";" + season + ";" + localTeam + ";" + visitantTeam + ";" +result;}
 }

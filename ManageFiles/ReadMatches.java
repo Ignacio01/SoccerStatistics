@@ -1,23 +1,19 @@
 package ManageFiles;
 
+import Calculation.CalculationsTeams;
+import Classes.Match;
 import Classes.Team;
 
 import java.io.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
 /**
- * Created by ignacioojanguren on 3/11/16.
- *
- * This class allows to read the file that contains all the teams.
- * The file of the teams is teams.txt which contains the name of the team and the points separated by a ";"
- * The teams are sorted alphabetically by their name
- *
- * Ex:
- *  Barcelona; 22
- *  Real Madrid; 24
+ * Created by ignacioojanguren on 4/11/16.
  */
-public class ReadTeams {
-
+public class ReadMatches {
     private File readFile;
 
     /**
@@ -39,40 +35,37 @@ public class ReadTeams {
         return br;
     }
 
-    /**
-     * GetTeams breaks down the file txt that contains the teams, and creates an arrayList
-     * with the teams stored in the txt file. This class will call readContent to open the file txt
-     *
-     * @param fileName
-     *  Is the name of the file to be open, this name will be passed to the class readContent.
-     * @return
-     *  returns an arraylist of all the Teams in the list with their respective points.
-     */
-    public static ArrayList<Team> getTeams(String fileName){
+        public static ArrayList<Match> getMatches(String fileName, ArrayList<Team> teams){
 
         BufferedReader br = readContent(fileName);
         if(readContent(fileName) == null){return null;}
         String line;
         String[] lineSplit = {""};
-        String nameTeam;
-        int position = 0, goalsFor = 0, goalAgainst = 0;
+        Date dateMatch = null;
+        String season = "", result = "";
+        Team localTeam = null,visitantTeam = null;
 
-        ArrayList<Team> teamsList = new ArrayList<Team>();
-        Team team1;
+
+
+        ArrayList<Match> matchsList = new ArrayList<Match>();
+        Match match;
 
         try{
             while( (line = br.readLine()) != null){
                 lineSplit = line.split(";");
-                nameTeam = lineSplit[0];
+                SimpleDateFormat formatter = new SimpleDateFormat("MM/dd/yyyy");
                 try{
-                    position = Integer.parseInt(lineSplit[1]);
-                    goalsFor = Integer.parseInt(lineSplit[2]);
-                    goalAgainst = Integer.parseInt(lineSplit[3]);
+                    dateMatch = formatter.parse(lineSplit[0]);
+                    season = lineSplit[1];
+                    localTeam = CalculationsTeams.findTeam(lineSplit[2],teams);
+                    visitantTeam = CalculationsTeams.findTeam(lineSplit[3],teams);
+                    result = lineSplit[4];
                 }catch(NumberFormatException nf){
                     nf.printStackTrace();
+                }catch (ParseException parse){
+                    parse.printStackTrace();
                 }
-                team1 = new Team(nameTeam, position, goalsFor, goalAgainst);
-                teamsList.add(team1);
+                match = new Match(dateMatch,season,localTeam,visitantTeam,result);
             }
         }catch(IOException ex){
             ex.printStackTrace();
@@ -83,9 +76,6 @@ public class ReadTeams {
                 close.printStackTrace();
             }
         }
-        return teamsList;
+        return matchsList;
     }
-
-
-
 }

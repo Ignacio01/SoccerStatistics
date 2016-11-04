@@ -13,5 +13,9 @@ public class main {
         ArrayList<Team> listTeams = ReadTeams.getTeams(fileTeams);
         System.out.println("The team leading the league is:");
         System.out.println(CalculationsTeams.topTeam(listTeams).toString());
+
+        CalculationsTeams.sortTeamsPoints(listTeams);
+        CalculationsTeams.printTeams(listTeams);
+
     }
 }

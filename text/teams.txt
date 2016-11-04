@@ -1,20 +1,20 @@
-Alavés;10
-Athletic de Bilbao;16
-Atlético de Madrid;21
-Barcelona;22
-Betis;11
-Celta;14
-Deportivo de La Coruña;9
-Eibar;15
-Espanyol;11
-Granada;3
-Las Palmas;13
-Leganés;10
-Málaga;12
-Osasuna;7
-Real Madrid;24
-Real Sociedad;16
-Sevilla;21
-Sporting;9
-Valencia;10
-Villarreal;19
+Alavés;10;10;15
+Athletic de Bilbao;16;15;13
+Atlético de Madrid;21;25;6
+Barcelona;22;30;12
+Betis;11;11;20
+Celta;14;16;20
+Deportivo;9;7;15
+Eibar;15;16;14
+Espanyol;11;13;17
+Granada;3;8;24
+Las Palmas;13;20;18
+Leganés;10;9;19
+Málaga;12;14;14
+Osasuna;7;12;20
+Real Madrid;24;28;10
+Real Sociedad;16;16;12
+Sevilla;21;18;13
+Sporting;9;8;19
+Valencia;10;14;19
+Villarreal;19;17;7
