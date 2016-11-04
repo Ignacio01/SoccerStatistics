@@ -1,0 +1,20 @@
+Alavés;10
+Athletic de Bilbao;16
+Atlético de Madrid;21
+Barcelona;22
+Betis;11
+Celta;14
+Deportivo de La Coruña;9
+Eibar;15
+Espanyol;11
+Granada;3
+Las Palmas;13
+Leganés;10
+Málaga;12
+Osasuna;7
+Real Madrid;24
+Real Sociedad;16
+Sevilla;21
+Sporting;9
+Valencia;10
+Villarreal;19
