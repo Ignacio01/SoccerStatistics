@@ -17,6 +17,7 @@ public class CalculationsTeams {
     /**
      * This class returns the team that is winning by points.
      * @param teams
+     *  Arraylist that contains all the teams. This arraylist is obtained in the class ReadTeams and the method
      *  getTeams.
      * @return
      *  Returns the Teams that has the maximum amount of points and goals.
