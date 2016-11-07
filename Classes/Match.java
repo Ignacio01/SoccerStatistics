@@ -19,27 +19,32 @@ public class Match {
     private String season;
     private Team localTeam;
     private Team visitantTeam;
-    private String result;
+    private int goalLocal;
+    private int goalVisitant;
 
-    public Match(Date dateMatch, String season, Team localTeam, Team visitantTeam, String result){
+    public Match(Date dateMatch, String season, Team localTeam, Team visitantTeam, int goalLocal, int goalVisitant){
         this.dateMatch = dateMatch;
         this.season = season;
         this.localTeam = localTeam;
         this.visitantTeam = visitantTeam;
-        this.result = result;
+        this.goalLocal = goalLocal;
+        this.goalVisitant = goalVisitant;
     }
 
     public Date getDateMatch() {return dateMatch;}
     public Team getLocalTeam() {return localTeam;}
-    public String getResult() {return result;}
     public String getSeason() {return season;}
     public Team getVisitantTeam() {return visitantTeam;}
+    public int getGoalLocal(){return goalLocal;}
+    public int getGoalVisitant(){return goalVisitant;}
     public void setDateMatch(Date dateMatch) {this.dateMatch = dateMatch;}
     public void setLocalTeam(Team localTeam) {this.localTeam = localTeam;}
-    public void setResult(String result) {this.result = result;}
     public void setSeason(String season) {this.season = season;}
     public void setVisitantTeam(Team visitantTeam) {this.visitantTeam = visitantTeam;}
+    public void setGoalLocal(int goalLocal){this.goalLocal = goalLocal;}
+    public void setGoalVisitant(int goalVisitant){this.goalVisitant = goalVisitant;}
 
     @Override
-    public String toString(){return dateMatch + ";" + season + ";" + localTeam + ";" + visitantTeam + ";" +result;}
+    public String toString(){return dateMatch + ";" + season + ";" + localTeam + ";" + visitantTeam + ";"
+            + goalLocal + "-" + goalVisitant;}
 }

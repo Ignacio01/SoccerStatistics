@@ -35,7 +35,16 @@ public class ReadMatches {
         return br;
     }
 
-        public static ArrayList<Match> getMatches(String fileName, ArrayList<Team> teams){
+    /**
+     * GetTeams breaks down the file txt that contains the teams, and creates an arrayList
+     * with the teams stored in the txt file. This class will call readContent to open the file txt
+     *
+     * @param fileName
+     *  Is the name of the file to be open, this name will be passed to the class readContent.
+     * @return
+     *  returns an arraylist of all the Teams in the list with their respective points.
+     */
+    public static ArrayList<Match> getMatches(String fileName, ArrayList<Team> teams){
 
         BufferedReader br = readContent(fileName);
         if(readContent(fileName) == null){return null;}
@@ -43,8 +52,9 @@ public class ReadMatches {
         String[] lineSplit = {""};
         Date dateMatch = null;
         String season = "", result = "";
+        String[]resultMatch;
         Team localTeam = null,visitantTeam = null;
-
+        int goalLocal = 0, goalVisitant = 0;
 
 
         ArrayList<Match> matchsList = new ArrayList<Match>();
@@ -52,20 +62,28 @@ public class ReadMatches {
 
         try{
             while( (line = br.readLine()) != null){
-                lineSplit = line.split(";");
-                SimpleDateFormat formatter = new SimpleDateFormat("MM/dd/yyyy");
-                try{
-                    dateMatch = formatter.parse(lineSplit[0]);
-                    season = lineSplit[1];
-                    localTeam = CalculationsTeams.findTeam(lineSplit[2],teams);
-                    visitantTeam = CalculationsTeams.findTeam(lineSplit[3],teams);
-                    result = lineSplit[4];
-                }catch(NumberFormatException nf){
-                    nf.printStackTrace();
-                }catch (ParseException parse){
-                    parse.printStackTrace();
+                if(line.charAt(0) != '#'){
+                    lineSplit = line.split(";");
+                    SimpleDateFormat formatter = new SimpleDateFormat("MM/dd/yyyy");
+                    try{
+
+                        dateMatch = formatter.parse(lineSplit[0]);
+                        season = lineSplit[1];
+                        localTeam = CalculationsTeams.findTeam(lineSplit[2],teams);
+                        visitantTeam = CalculationsTeams.findTeam(lineSplit[3],teams);
+                        result = lineSplit[4];
+                        resultMatch = result.split("-");
+                        goalLocal = Integer.parseInt(resultMatch[0].trim());
+                        goalVisitant = Integer.parseInt(resultMatch[1].trim());
+
+                    }catch(NumberFormatException nf){
+                        nf.printStackTrace();
+                    }catch (ParseException parse){
+                        parse.printStackTrace();
+                    }
+                    match = new Match(dateMatch,season,localTeam,visitantTeam,goalLocal,goalVisitant);
+                    matchsList.add(match);
                 }
-                match = new Match(dateMatch,season,localTeam,visitantTeam,result);
             }
         }catch(IOException ex){
             ex.printStackTrace();
