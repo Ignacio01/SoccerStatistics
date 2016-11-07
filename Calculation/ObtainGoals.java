@@ -48,7 +48,7 @@ public class ObtainGoals {
 
         try{
             PrintWriter writer = new PrintWriter
-                    ("File", "UTF-8");
+                    ("/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/finalGoalPlayers.txt\n", "UTF-8");
             while( (line = br.readLine()) != null){
                 lineSplit = line.split(" ");
                 sentenceCleaned = "";

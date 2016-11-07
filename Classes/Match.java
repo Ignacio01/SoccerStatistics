@@ -1,5 +1,6 @@
 package Classes;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 /**
@@ -43,6 +44,11 @@ public class Match {
     public void setVisitantTeam(Team visitantTeam) {this.visitantTeam = visitantTeam;}
     public void setGoalLocal(int goalLocal){this.goalLocal = goalLocal;}
     public void setGoalVisitant(int goalVisitant){this.goalVisitant = goalVisitant;}
+
+    public void getNextMatch(ArrayList<Match> matches){
+
+
+    }
 
     @Override
     public String toString(){return dateMatch + ";" + season + ";" + localTeam + ";" + visitantTeam + ";"

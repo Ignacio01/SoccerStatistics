@@ -2,6 +2,7 @@ import Calculation.CalculateMatches;
 import Calculation.CalculationsTeams;
 import Classes.Match;
 import Classes.Team;
+import ManageFiles.CreateTeamsStats;
 import ManageFiles.ReadMatches;
 import ManageFiles.ReadTeams;
 
@@ -18,11 +19,19 @@ public class main {
         System.out.println("The team leading the league is:");
         System.out.println(CalculationsTeams.topTeam(listTeams).toString());
 
+        ArrayList<Match> listMatches = ReadMatches.getMatches(fileMatch,listTeams);
+
+        /* Recalculate points
+        CreateTeamsStats.getMatches(listMatches);*/
+
         CalculationsTeams.sortTeamsPoints(listTeams);
         CalculationsTeams.printTeams(listTeams);
 
-        ArrayList<Match> listMatches = ReadMatches.getMatches(fileMatch,listTeams);
         System.out.println("Barcelona goals at home: " + CalculateMatches.calculateGoalsLocal("Barcelona",listMatches));
         System.out.println("Barcelona goals not at home: " + CalculateMatches.calculateGoalsVisitant("Barcelona",listMatches));
+        System.out.println("Total goals Barcelona: " + CalculateMatches.calculateTotalGoals("Barcelona",listMatches));
+        System.out.println("Total goals against Barcelona: " + CalculateMatches.calculateGoalsAgainst("Barcelona",listMatches));
+        System.out.println("Victories Barcelona: " + CreateTeamsStats.calculateVictories("Barcelona", listMatches));
+        System.out.println("Ties Barcelona: " + CreateTeamsStats.calculateTies("Barcelona", listMatches));
     }
 }

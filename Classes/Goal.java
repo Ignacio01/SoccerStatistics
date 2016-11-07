@@ -12,4 +12,5 @@ package Classes;
 public class Goal {
     private Player scorer;
     private Match match;
+
 }

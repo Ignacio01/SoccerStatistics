@@ -81,8 +81,11 @@ public class ReadMatches {
                     }catch (ParseException parse){
                         parse.printStackTrace();
                     }
-                    match = new Match(dateMatch,season,localTeam,visitantTeam,goalLocal,goalVisitant);
-                    matchsList.add(match);
+                    if(goalLocal != 100 && goalVisitant != 100){
+                        match = new Match(dateMatch,season,localTeam,visitantTeam,goalLocal,goalVisitant);
+                        matchsList.add(match);
+                    }
+
                 }
             }
         }catch(IOException ex){
