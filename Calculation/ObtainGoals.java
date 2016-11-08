@@ -14,16 +14,15 @@ import java.io.PrintWriter;
  * a web page.
  * The program gets the information of the soccer player, the goals he scored and also how long it takes a player
  * to score a goal.
+ *
+ * GOALPLAYERS REPLACE ">" by "> " and "<" by " <"
+ *
  */
 public class ObtainGoals {
 
     private static BufferedReader readContent(){
 
-<<<<<<< HEAD
         String fileName = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/goalPlayers";
-=======
-        String fileName = "File";
->>>>>>> master
         BufferedReader br = null;
         try{
             br = new BufferedReader(new FileReader(fileName));
@@ -52,11 +51,7 @@ public class ObtainGoals {
 
         try{
             PrintWriter writer = new PrintWriter
-<<<<<<< HEAD
                     ("/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/finalGoalPlayers.txt", "UTF-8");
-=======
-                    ("/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/finalGoalPlayers.txt\n", "UTF-8");
->>>>>>> master
             while( (line = br.readLine()) != null){
                 lineSplit = line.split(" ");
                 sentenceCleaned = "";

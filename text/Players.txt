@@ -1,599 +1,582 @@
-#Barcelona
-Ter Stegen	24 años	188cm	82kg	POR
-J. Cillessen	27 años	187cm	82kg	POR
-J. Masip	27 años	180cm	70kg	POR
-C. Bravo	33 años	184cm	84kg	POR
-S. Umtiti	22 años	181cm	75kg	DEF
-Jordi Alba	27 años	165cm	63kg	DEF
-G. Piqué	29 años	192cm	85kg	DEF
-Marlon	21 años	185cm	81kg	DEF
-Aleix Vidal	27 años	176cm	70kg	DEF
-L. Digne	23 años	184cm	75kg	DEF
-Nili	22 años			DEF
-J. Mascherano	32 años	178cm	77kg	DEF
-J. Mathieu	33 años	190cm	82kg	DEF
-Sergi Roberto	24 años	177cm	70kg	MED
-W. Kaptoum	20 años	174cm	72kg	MED
-S. Busquets	28 años	189cm	73kg	MED
-A. Iniesta	32 años	170cm	65kg	MED
-A. Turan	29 años	176cm	72kg	MED
-I. Rakitić	28 años	184cm	79kg	MED
-D. Suárez	22 años	181cm	66kg	MED
-C. Aleñá	18 años	180cm	70kg	MED
-Rafinha	23 años	177cm	67kg	MED
-A. Gomes	23 años	188cm	83kg	MED
-P. Alcácer	23 años	174cm	71kg	DEL
-L. Suárez	29 años	181cm	81kg	DEL
-Munir	21 años	175cm	69kg	DEL
-Neymar	24 años	174cm	64kg	DEL
-L. Messi	29 años	169cm	67kg	DEL
+#Barcelona;
+Ter Stegen;24 años;188cm;82kg;POR;
+J. Cillessen;27 años;187cm;82kg;POR;
+J. Masip;27 años;180cm;70kg;POR;
+C. Bravo;33 años;184cm;84kg;POR;
+S. Umtiti;22 años;181cm;75kg;DEF;
+Jordi Alba;27 años;165cm;63kg;DEF;
+G. Piqué;29 años;192cm;85kg;DEF;
+Marlon;21 años;185cm;81kg;DEF;
+Aleix Vidal;27 años;176cm;70kg;DEF;
+L. Digne;23 años;184cm;75kg;DEF;
+Nili;22 años;;;DEF;
+J. Mascherano;32 años;178cm;77kg;DEF;
+J. Mathieu;33 años;190cm;82kg;DEF;
+Sergi Roberto;24 años;177cm;70kg;MED;
+W. Kaptoum;20 años;174cm;72kg;MED;
+S. Busquets;28 años;189cm;73kg;MED;
+A. Iniesta;32 años;170cm;65kg;MED;
+A. Turan;29 años;176cm;72kg;MED;
+I. Rakitić;28 años;184cm;79kg;MED;
+D. Suárez;22 años;181cm;66kg;MED;
+C. Aleñá;18 años;180cm;70kg;MED;
+Rafinha;23 años;177cm;67kg;MED;
+A. Gomes;23 años;188cm;83kg;MED;
+P. Alcácer;23 años;174cm;71kg;DEL;
+L. Suárez;29 años;181cm;81kg;DEL;
+Munir;21 años;175cm;69kg;DEL;
+Neymar;24 años;174cm;64kg;DEL;
+L. Messi;29 años;169cm;67kg;DEL;
 
-#Real Madrid
-K. Casilla	30 años	191cm	84kg	POR
-K. Navas	29 años	186cm	78kg	POR
-Rubén Yáñez	23 años	188cm	80kg	POR
-D. Carvajal	24 años	173cm	70kg	DEF
-Pepe	33 años	186cm	72kg	DEF
-Sergio Ramos	30 años	183cm	73kg	DEF
-Nacho	26 años	180cm	74kg	DEF
-F. Coentrão	28 años	178cm	66kg	DEF
-Marcelo	28 años	174cm	73kg	DEF
-Danilo	25 años	184cm	73kg	DEF
-R. Varane	23 años	191cm	76kg	DEF
-T. Kroos	26 años	182cm	71kg	MED
-Casemiro	24 años	184cm	80kg	MED
-James	25 años	180cm	77kg	MED
-M. Kovačić	22 años	181cm	75kg	MED
-Isco	24 años	175cm	79kg	MED
-L. Modrić	31 años	175cm	67kg	MED
-M. Asensio	20 años	170cm	70kg	MED
-Mariano	23 años	181cm	75kg	DEL
-G. Bale	27 años	183cm	74kg	DEL
-C. Ronaldo	31 años	186cm	75kg	DEL
-A. Morata	24 años	187cm	82kg	DEL
-K. Benzema	28 años	182cm	74kg	DEL
-Lucas Vázquez	25 años	173cm	69kg	DEL
-
-#Atlético de Madrid
-J. Oblak	23 años	188cm	77kg	POR
-André Moreira	20 años	195cm	85kg	POR
-M. Moyá	32 años	185cm	75kg	POR
-J. Giménez	21 años	185cm	80kg	DEF
-Juanfran	31 años	180cm	72kg	DEF
-Filipe Luis	31 años	182cm	70kg	DEF
-Lucas Hernández	20 años	180cm	76kg	DEF
-Š. Vrsaljko	24 años	183cm	73kg	DEF
-S. Savić	25 años	186cm	73kg	DEF
-D. Godín	30 años	185cm	73kg	DEF
-Amath Diedhiou	20 años	170cm	65kg	MED
-A. Fernández	30 años	177cm	71kg	MED
-Koke	24 años	178cm	73kg	MED
-Caio Henrique	19 años			MED
-A. Cerci	29 años	180cm	78kg	MED
-Tiago	35 años	183cm	75kg	MED
-Gabi	33 años	179cm	73kg	MED
-Thomas	23 años	185cm	73kg	MED
-N. Gaitán	28 años	173cm	68kg	MED
-Saúl	21 años	181cm	70kg	MED
-K. Gameiro	29 años	172cm	69kg	DEL
-Á. Correa	21 años	174cm	73kg	DEL
-F. Torres	32 años	186cm	78kg	DEL
-Y. Ferreira-Carrasco	23 años	180cm	66kg	DEL
-J. Moreno	19 años			DEL
-A. Griezmann	25 años	174cm	72kg	DEL
-
-#Valencia
-Jaume Doménech	26 años	185cm	79kg	POR
-Diego Alves	31 años	188cm	83kg	POR
-M. Ryan	24 años	182cm	85kg	POR
-Rúben Vezo	22 años	184cm	76kg	DEF
-M. Montoya	25 años	174cm	74kg	DEF
-S. Mustafi	24 años	184cm	82kg	DEF
-A. Abdennour	27 años	187cm	84kg	DEF
-Lato	18 años	180cm	75kg	DEF
-J. Gayà	21 años	172cm	67kg	DEF
-E. Mangala	25 años	187cm	74kg	DEF
-E. Garay	30 años	189cm	83kg	DEF
-Aderlan Santos	27 años	193cm	83kg	DEF
-G. Siqueira	30 años	184cm	76kg	DEF
-J. Cancelo	22 años	182cm	66kg	DEF
-C. Soler	18 años			MED
-E. Pérez	30 años	177cm	71kg	MED
-F. Cartabia	23 años	169cm	65kg	MED
-Mario Suárez	29 años	185cm	77kg	MED
-Á. Medrán	22 años	174cm	66kg	MED
-D. Parejo	27 años	180cm	75kg	MED
-P. Alcácer	23 años	174cm	71kg	DEL
-Rodrigo	25 años	180cm	74kg	DEL
-R. Mir	19 años	186cm	75kg	DEL
-Munir	21 años	175cm	69kg	DEL
-Z. Bakkali	20 años	164cm	60kg	DEL
-Santi Mina	20 años	177cm	71kg	DEL
-Nani	29 años	175cm	66kg	DEL
-
-#Athletic de Bilbao
-I. Herrerín	28 años	188cm	82kg	POR
-Kepa	22 años	186cm	81kg	POR
-G. Iraizoz	35 años	191cm	81kg	POR
-E. Saborit	24 años	186cm	72kg	DEF
-A. Laporte	22 años	189cm	85kg	DEF
-Eneko Bóveda	27 años	180cm	77kg	DEF
-M. San José	27 años	186cm	77kg	DEF
-X. Etxeita	29 años	185cm	79kg	DEF
-G. Elustondo	29 años	183cm	78kg	DEF
-Yeray	21 años	183cm	78kg	DEF
-M. Balenziaga	28 años	176cm	70kg	DEF
-I. Lekue	23 años	179cm	71kg	MED
-Ó. De Marcos	27 años	180cm	76kg	MED
-Mikel Rico	32 años	182cm	75kg	MED
-Raúl García	30 años	183cm	80kg	MED
-A. Iturraspe	27 años	187cm	74kg	MED
-A. Aketxe	22 años	174cm	70kg	MED
-M. Vesga	23 años	191cm	86kg	MED
-Beñat	29 años	179cm	72kg	MED
-J. Eraso	26 años	180cm	71kg	MED
-M. Susaeta	28 años	179cm	68kg	MED
-B. Viguera	29 años	184cm	80kg	DEL
-Sabin	24 años	186cm	80kg	DEL
-I. Muniain	23 años	168cm	63kg	DEL
-I. Williams	22 años	186cm	77kg	DEL
-A. Aduriz	35 años	181cm	75kg	DEL
-K. Sola	30 años	184cm	84kg	DEL
-
-#Sevilla
-S. Sirigu	29 años	190cm	80kg	POR
-Sergio Rico	23 años	194cm	90kg	POR
-David Soria	23 años	190cm	83kg	POR
-Churripi	22 años			POR
-Mariano	30 años	177cm	69kg	DEF
-Diego González	21 años	184cm	75kg	DEF
-D. Carriço	28 años	182cm	79kg	DEF
-N. Pareja	32 años	183cm	75kg	DEF
-G. Mercado	29 años	181cm	85kg	DEF
-S. Escudero	27 años	176cm	65kg	DEF
-A. Rami	30 años	190cm	90kg	DEF
-C. González	20 años	185cm	80kg	DEF
-B. Trémoulinas	30 años	173cm	64kg	DEF
-T. Kolodziejczak	25 años	185cm	73kg	DEF
-Ganso	27 años	184cm	73kg	MED
-Vitolo	27 años	183cm	80kg	MED
-P. Sarabia	24 años	174cm	70kg	MED
-S. Nasri	29 años	178cm	75kg	MED
-S. N'Zonzi	27 años	190cm	75kg	MED
-M. Kranevitter	23 años	178cm	74kg	MED
-B. Boutobba	18 años	175cm	70kg	MED
-H. Kiyotake	26 años	172cm	63kg	MED
-G. Aburdjania	21 años			MED
-M. Krohn-Dehli	33 años	170cm	71kg	MED
-F. Vázquez	27 años	187cm	87kg	MED
-S. Cristóforo	23 años	174cm	65kg	MED
-J. Correa	22 años	184cm	75kg	MED
-J. Carrascal	18 años			MED
-V. Iborra	28 años	190cm	76kg	MED
-Juan Muñoz	20 años	182cm	80kg	DEL
-Y. Konoplyanka	27 años	176cm	69kg	DEL
-Carlos	20 años	186cm	72kg	DEL
-W. Ben Yedder	26 años	170cm	68kg	DEL
-L. Vietto	22 años	173cm	68kg	DEL
-
-#Real Sociedad
-Ander	21 años	192cm	78kg	POR
-Toño Ramírez	29 años	189cm	79kg	POR
-G. Rulli	24 años	189cm	80kg	POR
-Héctor	25 años	173cm	71kg	DEF
-Í. Martínez	25 años	181cm	77kg	DEF
-A. Elustondo	22 años	178cm	72kg	DEF
-Odriozola	20 años			DEF
-Raúl Navas	28 años	178cm	77kg	DEF
-C. Martínez	30 años	188cm	78kg	DEF
-Mikel González	31 años	188cm	80kg	DEF
-Yuri	26 años	181cm	77kg	DEF
-J. Zaldúa	24 años	169cm	59kg	DEF
-E. Granero	29 años	179cm	77kg	MED
-A. Illarramendi	26 años	177cm	74kg	MED
-Gaztañaga	25 años	182cm	78kg	MED
-D. Zurutuza	30 años	184cm	78kg	MED
-Xabi Prieto	33 años	185cm	82kg	MED
-K. Rodrigues	22 años	169cm	63kg	MED
-R. Pardo	24 años	182cm	68kg	MED
-I. Zubeldia	19 años			MED
-Alejandro Sanz	23 años	176cm	68kg	MED
-M. Oyarzabal	19 años	180cm	75kg	MED
-S. Canales	25 años	176cm	65kg	MED
-M. Bergara	30 años	180cm	74kg	MED
-C. Vela	27 años	180cm	67kg	DEL
-Juanmi	23 años	169cm	63kg	DEL
-Willian José	24 años	186cm	87kg	DEL
-D. Concha	19 años	177cm	62kg	DEL
-I. Agirretxe	29 años	186cm	77kg	DEL
-Bautista	21 años			DEL
-
-#Deportivo
-P. Tyton	29 años	195cm	80kg	POR
-Rubén	32 años	187cm	80kg	POR
-G. Lux	34 años	186cm	77kg	POR
-Sidnei	27 años	185cm	80kg	DEF
-Raúl Albentosa	28 años	193cm	89kg	DEF
-Laure	31 años	165cm	65kg	DEF
-F. Navarro	34 años	178cm	70kg	DEF
-Juanfran	28 años	179cm	72kg	DEF
-Arribas	27 años	182cm	75kg	DEF
-A. Campeny	19 años			DEF
-Nacho	22 años			DEF
-Luisinho	31 años	175cm	63kg	DEF
-Bruno Gama	28 años	177cm	71kg	MED
-Queijeiro	23 años			MED
-C. Borges	28 años	182cm	78kg	MED
-Guilherme	25 años	178cm	78kg	MED
-Carles Gil	23 años	170cm	69kg	MED
-Borja Valle	24 años	178cm	78kg	MED
-E. Çolak	25 años	168cm	61kg	MED
-P. Mosquera	28 años	184cm	77kg	MED
-Álex Bergantiños	31 años	175cm	75kg	MED
-F. Fajr	28 años	178cm	72kg	MED
-Oscar Pinchi	20 años			MED
-Lucas	28 años	181cm	78kg	DEL
-M. Moreno	20 años	171cm	67kg	DEL
-R. Babel	29 años	185cm	78kg	DEL
-Joselu	26 años	182cm	71kg	DEL
-F. Andone	23 años	183cm	73kg	DEL
-
-#Espanyol
-Diego López	35 años	196cm	88kg	POR
-Roberto	30 años	190cm	85kg	POR
-Pau López	21 años	189cm	77kg	POR
-D. Reyes	24 años	189cm	64kg	DEF
-Víctor Álvarez	23 años	178cm	69kg	DEF
-Álvaro	26 años	180cm	68kg	DEF
-M. Ciani	32 años	192cm	88kg	DEF
-M. Demichelis	35 años	184cm	78kg	DEF
-Ó. Duarte	27 años	184cm	85kg	DEF
-R. Duarte	21 años	172cm	68kg	DEF
-Arbilla	29 años	177cm	75kg	DEF
-Aaron	19 años			DEF
-Javi López	30 años	180cm	74kg	DEF
-J. Jurado	30 años	173cm	72kg	MED
-David López	27 años	185cm	80kg	MED
-Salva Sevilla	32 años	178cm	70kg	MED
-avi Fuego	32 años	181cm	74kg	MED
-J. Reyes	33 años	176cm	76kg	MED
-Víctor Sánchez	29 años	180cm	73kg	MED
-P. Diop	30 años	180cm	73kg	MED
-Álex	24 años	182cm	75kg	MED
-Marc Roca	19 años	186cm	74kg	MED
-H. Pérez	27 años	180cm	77kg	MED
-L. Baptistão	24 años	181cm	71kg	DEL
-Gerard Moreno	24 años	177cm	75kg	DEL
-Álvaro Vázquez	25 años	182cm	76kg	DEL
-F. Caicedo	28 años	185cm	78kg	DEL
-P. Piatti	27 años	163cm	63kg	DEL
-
-#Celta
-Iván Villar	19 años			POR
-Rubén	21 años	188cm	80kg	POR
-Nestor	24 años	185cm	73kg	POR
-Sergio Álvarez	30 años	180cm	75kg	POR
-Samu	20 años			DEF
-C. Planas	24 años	173cm	77kg	DEF
-David Costas	21 años	181cm	73kg	DEF
-A. Fontàs	26 años	185cm	89kg	DEF
-G. Cabral	31 años	182cm	80kg	DEF
-Diego Alende	19 años			DEF
-Hugo Mallo	25 años	173cm	69kg	DEF
-Sergi Gómez	24 años	187cm	80kg	DEF
-Jonny	22 años	175cm	70kg	DEF
-F. Roncaglia	29 años	179cm	76kg	DEF
-Kevin	23 años	173cm	72kg	DEF
-N. Radoja	23 años	186cm	77kg	MED
-Cuco Ros	20 años			MED
-P. Hernández	30 años	183cm	76kg	MED
-M. Diaz	29 años	166cm	67kg	MED
-P. Cheikh	19 años	180cm	68kg	MED
-Borja Fernández	21 años	177cm	71kg	MED
-J. Señé	24 años	185cm	74kg	MED
-Álvaro Lemos	23 años	175cm	72kg	MED
-D. Wass	27 años	181cm	74kg	MED
-Iago Aspas	29 años	176cm	67kg	DEL
-J. Guidetti	24 años	185cm	79kg	DEL
-C. Beauvue	28 años	174cm	66kg	DEL
-Naranjo	22 años	182cm	73kg	DEL
-T. Bongonda	20 años	177cm	70kg	DEL
-Borja Iglesias	23 años	187cm	79kg	DEL
-G. Rossi	29 años	173cm	72kg	DEL
-D. Dražić	21 años	175cm	69kg	DEL
-P. Sisto	21 años	171cm	64kg	DEL
-F. Orellana	30 años	169cm	68kg	DEL
-
-#Sporting
-Mariño	26 años	185cm	75kg	POR
-I. Cuéllar	32 años	187cm	82kg	POR
-Ó. Whalley	22 años	186cm	79kg	POR
-Julio	20 años	194cm	86kg	DEF
-Ismael López	26 años	180cm	76kg	DEF
-Lillo	27 años	176cm	71kg	DEF
-Jorge Meré	19 años	182cm	77kg	DEF
-Lora	29 años	168cm	67kg	DEF
-F. Amorebieta	31 años	192cm	85kg	DEF
-J. Babin	30 años	182cm	84kg	DEF
-Juan Rodriguez	21 años	177cm	73kg	DEF
-Canella	28 años	180cm	70kg	DEF
-Douglas	26 años	171cm	63kg	DEF
-Sergio Álvarez	24 años	180cm	65kg	MED
-Xavi Torres	29 años	184cm	82kg	MED
-Daniel Ndi	21 años			MED
-C. Carmona	29 años	177cm	72kg	MED
-Víctor Rodríguez	27 años	170cm	70kg	MED
-Burgui	23 años	185cm	68kg	MED
-Rachid	23 años	190cm	86kg	MED
-Moi Gómez	22 años	174cm	65kg	MED
-Nacho Cases	28 años	175cm	67kg	MED
-A. Akram	19 años			DEL
-B. Viguera	29 años	184cm	80kg	DEL
-Castro	21 años	176cm	72kg	DEL
-D. Čop	26 años	182cm	71kg	DEL
-
-#Betis
-A. Adán	29 años	190cm	92kg	POR
-Manu Herrera	35 años	181cm	75kg	POR
-Pedro López	21 años	187cm	80kg	POR
-Dani Giménez	33 años	182cm	77kg	POR
-Bruno	26 años	184cm	82kg	DEF
-A. Mandi	25 años	184cm	78kg	DEF
-G. Pezzella	25 años	187cm	82kg	DEF
-José Carlos	20 años	182cm	75kg	DEF
-Álex Martínez	26 años	176cm	64kg	DEF
-C. Piccini	24 años	183cm	77kg	DEF
-Rafa Navarro	22 años			DEF
-R. Durmisi	22 años	168cm	67kg	DEF
-R. Donk	30 años	190cm	80kg	DEF
-D. Brasanac	23 años			MED
-J. Martin	26 años	184cm	77kg	MED
-F. Gutierrez	26 años	170cm	64kg	MED
-D. Digard	30 años	183cm	82kg	MED
-F. Kadir	32 años	179cm	73kg	MED
-M. Nahuel	19 años	175cm	67kg	MED
-Á. Cejudo	32 años	176cm	74kg	MED
-Joaquín	35 años	179cm	75kg	MED
-Fabián	20 años	189cm	70kg	MED
-D. Ceballos	20 años	176cm	75kg	MED
-Petros	27 años	182cm	78kg	MED
-F. Portillo	26 años	169cm	63kg	MED
-C. Musonda	20 años	173cm	65kg	MED
-A. Sanabria	20 años	180cm	70kg	DEL
-R. Zozulya	26 años	175cm	62kg	DEL
-Alex Alegría	24 años	189cm	82kg	DEL
-Rubén Castro	35 años	174cm	72kg	DEL
-
-#Osasuna
-Juan Pérez	20 años	192cm	78kg	POR
-Nauzet	31 años	192cm	90kg	POR
-Mario	28 años	185cm	74kg	POR
-A. Fernandez	18 años			POR
-Javi Flaño	32 años	184cm	77kg	DEF
-Fuentes	26 años	178cm	72kg	DEF
-Miguel Flaño	32 años	177cm	72kg	DEF
-Aitor Buñuel	18 años	180cm	74kg	DEF
-Tano Bonnín	26 años	184cm	74kg	DEF
-David García	22 años	185cm	72kg	DEF
-Unai	24 años	182cm	76kg	DEF
-Carlos Clerc	24 años	182cm	69kg	DEF
-Oier	30 años	178cm	66kg	DEF
-Javi Álamo	28 años	190cm	82kg	MED
-A. Otegui	18 años	175cm	70kg	MED
-Jaime Romero	26 años	177cm	77kg	MED
-M. De Las Cuevas	30 años	175cm	69kg	MED
-Roberto Torres	27 años	176cm	69kg	MED
-Imanol García	18 años			MED
-G. Čaušić	24 años			MED
-Olavide	20 años	179cm	70kg	MED
-Fausto	26 años	183cm	75kg	MED
-D. Digard	30 años	183cm	82kg	MED
-Fran Mérida	26 años	175cm	75kg	MED
-Oriol Riera	30 años	184cm	78kg	DEL
-Álex Berenguer	21 años	175cm	70kg	DEL
-Álex Sánchez	27 años	180cm	74kg	DEL
-Sergio León	27 años	178cm	73kg	DEL
-E. Rivière	26 años	182cm	76kg	DEL
-K. Kodro	23 años	187cm	72kg	DEL
-
-#Alavés
-F. Pacheco	24 años	186cm	81kg	POR
-Aritz Castro	18 años			POR
-A. Ortolà	23 años	185cm	70kg	POR
-Laguardia	27 años	185cm	75kg	DEF
-Alexis	31 años	183cm	75kg	DEF
-A. Pantić	24 años	184cm	77kg	DEF
-Einar Galilea	22 años	182cm	73kg	DEF
-Raúl García	27 años	175cm	72kg	DEF
-Carlos Vigaray	22 años	182cm	70kg	DEF
-Z. Feddal	27 años	192cm	83kg	DEF
-Theo Hernández	19 años			DEF
-D. Torres	26 años	183cm	80kg	MED
-Sergio Llamas	23 años	178cm	65kg	MED
-Marcos Llorente	21 años	182cm	65kg	MED
-Camarasa	22 años	183cm	76kg	MED
-N. Krsticic	26 años	182cm	75kg	MED
-Manu García	30 años	182cm	74kg	MED
-Kiko Femenía	25 años	171cm	68kg	MED
-Manuel García	18 años			MED
-A. Katai	25 años	177cm	70kg	MED
-G. Toquero	32 años	182cm	79kg	DEL
-Dani Iglesias	21 años	173cm	68kg	DEL
-Asier	21 años			DEL
-Rubén Sobrino	24 años	182cm	73kg	DEL
-C. Santos	28 años	184cm	70kg	DEL
-C. Espinoza	21 años	173cm	68kg	DEL
-Deyverson	25 años	189cm	82kg	DEL
-Manu Barreiro	30 años	192cm	81kg	DEL
-Ibai Gómez	26 años	177cm	72kg	DEL
-Édgar Méndez	26 años	188cm	78kg	DEL
-
-#Granada
-I. Kelava	28 años	195cm	90kg	POR
-Oier	27 años	191cm	95kg	POR
-G. Ochoa	31 años	185cm	78kg	POR
-Tito	31 años	174cm	62kg	DEF
-Gabriel Silva	25 años	179cm	75kg	DEF
-Hongla	18 años			DEF
-D. Lombán	29 años	188cm	84kg	DEF
-F. Tabanou	27 años	178cm	78kg	DEF
-G. Silva	22 años	185cm	74kg	DEF
-L. Martins	24 años	176cm	68kg	DEF
-D. Foulquier	23 años	182cm	78kg	DEF
-M. Saunier	26 años	181cm	75kg	DEF
-Rúben Vezo	22 años	184cm	76kg	DEF
-M. Carcela-González	27 años	176cm	69kg	MED
-A. Pereira	20 años	177cm	66kg	MED
-U. Agbo	20 años	186cm	73kg	MED
-Samper	21 años	181cm	71kg	MED
-J. Boga	19 años	172cm	68kg	MED
-R. Krhin	26 años	189cm	78kg	MED
-Javi Márquez	30 años	174cm	71kg	MED
-O. Atzili	23 años			MED
-J. Toral	21 años	183cm	80kg	MED
-E. Ponce	19 años	167cm	68kg	DEL
-Barral	33 años	183cm	78kg	DEL
-A. Kravets	27 años	185cm	75kg	DEL
-V. Angban	20 años	180cm	70kg	DEL
-A. Bueno	28 años	178cm	64kg	DEL
-I. Cuenca	25 años	181cm	74kg	DEL
-
-#Las Palmas
-Javi Varas	34 años	182cm	73kg	POR
-D. Ramírez	21 años			POR
-Raúl Lizoain	25 años	181cm	71kg	POR
-M. Lemos	20 años	184cm	80kg	DEF
-P. Bigas	26 años	180cm	78kg	DEF
-Aythami Artiles	30 años	185cm	81kg	DEF
-David García	34 años	180cm	76kg	DEF
-Michel Macedo	26 años	182cm	76kg	DEF
-Dani Castellano	29 años	180cm	76kg	DEF
-David Simón	26 años	178cm	74kg	DEF
-H. Lopes	27 años	179cm	66kg	DEF
-M. García	20 años	167cm	55kg	MED
-Tyronne	25 años	182cm	74kg	MED
-Momo	34 años	182cm	74kg	MED
-Hernán	26 años	180cm	74kg	MED
-Roque Mesa	27 años	171cm	72kg	MED
-Á. Montoro	28 años	182cm	77kg	MED
-José Artiles	23 años	167cm	56kg	MED
-Javi Castellano	29 años	178cm	71kg	MED
-J. Viera	27 años	170cm	64kg	MED
-K-P. Boateng	29 años	185cm	86kg	MED
-N. El Zhar	30 años	170cm	67kg	MED
-Vicente Gómez	28 años	187cm	77kg	MED
-Tana	26 años	168cm	65kg	DEL
-S. Araujo	24 años	180cm	72kg	DEL
-Asdrúbal	25 años	183cm	75kg	DEL
-M. Livaja	23 años	182cm	81kg	DEL
-
-#Villarreal
-M. Barbosa	32 años	190cm	77kg	POR
-S. Asenjo	27 años	189cm	70kg	POR
-Andrés Fernández	29 años	184cm	86kg	POR
-M. Musacchio	26 años	180cm	73kg	DEF
-D. Bonera	35 años	183cm	74kg	DEF
-A. Rukavina	32 años	178cm	74kg	DEF
-Álvaro	26 años	180cm	68kg	DEF
-Jaume Costa	28 años	171cm	65kg	DEF
-Mario Gaspar	25 años	178cm	71kg	DEF
-B. Jokic	30 años	176cm	75kg	DEF
-José Ángel	27 años	182cm	77kg	DEF
-Víctor Ruiz	27 años	184cm	80kg	DEF
-Rodrigo	20 años	190cm	88kg	MED
-M. Trigueros	25 años	178cm	70kg	MED
-Bruno	32 años	184cm	70kg	MED
-Samu Castillejo	21 años	179cm	59kg	MED
-R. Soriano	25 años	182cm	76kg	MED
-J. Dos Santos	26 años	180cm	74kg	MED
-Larrea	22 años			MED
-Mario González	20 años			MED
-A. N'diaye	26 años	188cm	94kg	MED
-D. Cheryshev	25 años	179cm	74kg	DEL
-R. Soldado	31 años	179cm	81kg	DEL
-R. Borré	21 años	179cm	70kg	DEL
-Aitor Cantalapiedra	20 años	177cm	67kg	DEL
-C. Bakambu	25 años	180cm	70kg	DEL
-A. Pato	27 años	179cm	78kg	DEL
-N. Sansone	25 años	175cm	73kg	DEL
-
-#Eibar
-Yoel	28 años	186cm	78kg	POR
-Areitio				POR
-A. Riesgo	33 años	185cm	76kg	POR
-Arbilla	29 años	177cm	75kg	DEF
-A. Luna	25 años	177cm	68kg	DEF
-I. Ramis	32 años	188cm	82kg	DEF
-Mauro	27 años	180cm	76kg	DEF
-D. Juncá	22 años	175cm	67kg	DEF
-A. Gálvez	27 años	186cm	80kg	DEF
-F. Lejeune	25 años	190cm	81kg	DEF
-Cristian	19 años	190cm	80kg	MED
-A. Capa	24 años	173cm	70kg	MED
-T. Inui	28 años	169cm	63kg	MED
-J. Peleteiro	25 años	180cm	67kg	MED
-Fran Rico	29 años	178cm	71kg	MED
-Adrián	28 años	184cm	75kg	MED
-Pedro León	29 años	182cm	70kg	MED
-Rubén Peña	25 años	170cm	62kg	MED
-G. Escalante	23 años	179cm	75kg	MED
-Dani García	26 años	180cm	75kg	MED
-Bebé	26 años	190cm	86kg	DEL
-Sergi Enrich	26 años	181cm	77kg	DEL
-Nano	21 años	178cm	79kg	DEL
-Kike	26 años	186cm	79kg	DEL
-
-#Leganés
-A. Brignoli	25 años	189cm	81kg	POR
-Serantes	27 años	182cm	66kg	POR
-Víctor Díaz	28 años	185cm	69kg	DEF
-C. Medjani	31 años	183cm	77kg	DEF
-Diego Rico	23 años	181cm	75kg	DEF
-A. Marín	19 años	185cm	70kg	DEF
-Mantovani	32 años	185cm	78kg	DEF
-Ínsua	23 años	186cm	75kg	DEF
-Bustinza	24 años	173cm	73kg	DEF
-Timor	27 años	185cm	77kg	MED
-G. Pires	23 años	185cm	74kg	MED
-Unai López	21 años	170cm	65kg	MED
-A. Szymanowski	28 años	175cm	63kg	MED
-Rubén Pérez	27 años	178cm	70kg	MED
-Robert	23 años	175cm	65kg	MED
-Alberto	27 años	181cm	70kg	MED
-A. Dragonetti	21 años			MED
-L. Sastre	30 años	175cm	71kg	MED
-Omar	28 años	175cm	65kg	MED
-Toni	26 años	175cm	69kg	MED
-D. Machís	23 años	170cm	67kg	DEL
-Luciano Neves	23 años	178cm	69kg	DEL
-M. Koné	24 años	177cm	73kg	DEL
-Guerrero	26 años	181cm	76kg	DEL
-
-#Málaga
-Aaron	21 años	188cm	72kg	POR
-C. Kameni	32 años	186cm	86kg	POR
-D. Boyko	28 años	197cm	85kg	POR
-F. Ricca	22 años	176cm	71kg	DEF
-Iván Rodríguez	20 años	180cm	68kg	DEF
-R. Rosales	27 años	174cm	73kg	DEF
-L. Muñoz	19 años			DEF
-B. Koné	28 años	188cm	80kg	DEF
-M. Torres	30 años	184cm	74kg	DEF
-M. Villanueva	23 años	190cm	78kg	DEF
-D. Llorente	23 años	186cm	75kg	DEF
-Weligton	37 años	186cm	71kg	DEF
-Jony	25 años	180cm	80kg	MED
-Duda	36 años	174cm	72kg	MED
-C. Castro	32 años	176cm	70kg	MED
-Juan Carlos	26 años	178cm	69kg	MED
-I. Camacho	26 años	182cm	80kg	MED
-Javi Ontiveros	19 años	172cm	68kg	MED
-Z. Kuzmanovic	29 años	186cm	83kg	MED
-Juanpi	22 años	171cm	68kg	MED
-Recio	25 años	183cm	74kg	MED
-Pablo	20 años	178cm	67kg	MED
-Keko	24 años	172cm	68kg	DEL
-Sandro	21 años	175cm	68kg	DEL
-M. Santos	23 años	175cm	62kg	DEL
-Charles	32 años	179cm	75kg	DEL
-Y. En Nesyri	19 años	192cm		DEL
+#Real Madrid;
+K. Casilla;30 años;191cm;84kg;POR;
+K. Navas;29 años;186cm;78kg;POR;
+Rubén Yáñez;23 años;188cm;80kg;POR;
+D. Carvajal;24 años;173cm;70kg;DEF;
+Pepe;33 años;186cm;72kg;DEF;
+Sergio Ramos;30 años;183cm;73kg;DEF;
+Nacho;26 años;180cm;74kg;DEF;
+F. Coentrão;28 años;178cm;66kg;DEF;
+Marcelo;28 años;174cm;73kg;DEF;
+Danilo;25 años;184cm;73kg;DEF;
+R. Varane;23 años;191cm;76kg;DEF;
+T. Kroos;26 años;182cm;71kg;MED;
+Casemiro;24 años;184cm;80kg;MED;
+James;25 años;180cm;77kg;MED;
+M. Kovačić;22 años;181cm;75kg;MED;
+Isco;24 años;175cm;79kg;MED;
+L. Modrić;31 años;175cm;67kg;MED;
+M. Asensio;20 años;170cm;70kg;MED;
+Mariano;23 años;181cm;75kg;DEL;
+G. Bale;27 años;183cm;74kg;DEL;
+C. Ronaldo;31 años;186cm;75kg;DEL;
+A. Morata;24 años;187cm;82kg;DEL;
+K. Benzema;28 años;182cm;74kg;DEL;
+Lucas Vázquez;25 años;173cm;69kg;DEL;
+#Atlético de Madrid;
+J. Oblak;23 años;188cm;77kg;POR;
+André Moreira;20 años;195cm;85kg;POR;
+M. Moyá;32 años;185cm;75kg;POR;
+J. Giménez;21 años;185cm;80kg;DEF;
+Juanfran;31 años;180cm;72kg;DEF;
+Filipe Luis;31 años;182cm;70kg;DEF;
+Lucas Hernández;20 años;180cm;76kg;DEF;
+Š. Vrsaljko;24 años;183cm;73kg;DEF;
+S. Savić;25 años;186cm;73kg;DEF;
+D. Godín;30 años;185cm;73kg;DEF;
+Amath Diedhiou;20 años;170cm;65kg;MED;
+A. Fernández;30 años;177cm;71kg;MED;
+Koke;24 años;178cm;73kg;MED;
+Caio Henrique;19 años;;;MED;
+A. Cerci;29 años;180cm;78kg;MED;
+Tiago;35 años;183cm;75kg;MED;
+Gabi;33 años;179cm;73kg;MED;
+Thomas;23 años;185cm;73kg;MED;
+N. Gaitán;28 años;173cm;68kg;MED;
+Saúl;21 años;181cm;70kg;MED;
+K. Gameiro;29 años;172cm;69kg;DEL;
+Á. Correa;21 años;174cm;73kg;DEL;
+F. Torres;32 años;186cm;78kg;DEL;
+Y. Ferreira-Carrasco;23 años;180cm;66kg;DEL;
+J. Moreno;19 años;;;DEL;
+A. Griezmann;25 años;174cm;72kg;DEL;
+;
+#Valencia;
+Jaume Doménech;26 años;185cm;79kg;POR;
+Diego Alves;31 años;188cm;83kg;POR;
+M. Ryan;24 años;182cm;85kg;POR;
+Rúben Vezo;22 años;184cm;76kg;DEF;
+M. Montoya;25 años;174cm;74kg;DEF;
+S. Mustafi;24 años;184cm;82kg;DEF;
+A. Abdennour;27 años;187cm;84kg;DEF;
+Lato;18 años;180cm;75kg;DEF;
+J. Gayà;21 años;172cm;67kg;DEF;
+E. Mangala;25 años;187cm;74kg;DEF;
+E. Garay;30 años;189cm;83kg;DEF;
+Aderlan Santos;27 años;193cm;83kg;DEF;
+G. Siqueira;30 años;184cm;76kg;DEF;
+J. Cancelo;22 años;182cm;66kg;DEF;
+C. Soler;18 años;;;MED;
+E. Pérez;30 años;177cm;71kg;MED;
+F. Cartabia;23 años;169cm;65kg;MED;
+Mario Suárez;29 años;185cm;77kg;MED;
+Á. Medrán;22 años;174cm;66kg;MED;
+D. Parejo;27 años;180cm;75kg;MED;
+P. Alcácer;23 años;174cm;71kg;DEL;
+Rodrigo;25 años;180cm;74kg;DEL;
+R. Mir;19 años;186cm;75kg;DEL;
+Munir;21 años;175cm;69kg;DEL;
+Z. Bakkali;20 años;164cm;60kg;DEL;
+Santi Mina;20 años;177cm;71kg;DEL;
+Nani;29 años;175cm;66kg;DEL;
+#Athletic de Bilbao;
+I. Herrerín;28 años;188cm;82kg;POR;
+Kepa;22 años;186cm;81kg;POR;
+G. Iraizoz;35 años;191cm;81kg;POR;
+E. Saborit;24 años;186cm;72kg;DEF;
+A. Laporte;22 años;189cm;85kg;DEF;
+Eneko Bóveda;27 años;180cm;77kg;DEF;
+M. San José;27 años;186cm;77kg;DEF;
+X. Etxeita;29 años;185cm;79kg;DEF;
+G. Elustondo;29 años;183cm;78kg;DEF;
+Yeray;21 años;183cm;78kg;DEF;
+M. Balenziaga;28 años;176cm;70kg;DEF;
+I. Lekue;23 años;179cm;71kg;MED;
+Ó. De Marcos;27 años;180cm;76kg;MED;
+Mikel Rico;32 años;182cm;75kg;MED;
+Raúl García;30 años;183cm;80kg;MED;
+A. Iturraspe;27 años;187cm;74kg;MED;
+A. Aketxe;22 años;174cm;70kg;MED;
+M. Vesga;23 años;191cm;86kg;MED;
+Beñat;29 años;179cm;72kg;MED;
+J. Eraso;26 años;180cm;71kg;MED;
+M. Susaeta;28 años;179cm;68kg;MED;
+B. Viguera;29 años;184cm;80kg;DEL;
+Sabin;24 años;186cm;80kg;DEL;
+I. Muniain;23 años;168cm;63kg;DEL;
+I. Williams;22 años;186cm;77kg;DEL;
+A. Aduriz;35 años;181cm;75kg;DEL;
+K. Sola;30 años;184cm;84kg;DEL;
+#Sevilla;
+S. Sirigu;29 años;190cm;80kg;POR;
+Sergio Rico;23 años;194cm;90kg;POR;
+David Soria;23 años;190cm;83kg;POR;
+Churripi;22 años;;;POR;
+Mariano;30 años;177cm;69kg;DEF;
+Diego González;21 años;184cm;75kg;DEF;
+D. Carriço;28 años;182cm;79kg;DEF;
+N. Pareja;32 años;183cm;75kg;DEF;
+G. Mercado;29 años;181cm;85kg;DEF;
+S. Escudero;27 años;176cm;65kg;DEF;
+A. Rami;30 años;190cm;90kg;DEF;
+C. González;20 años;185cm;80kg;DEF;
+B. Trémoulinas;30 años;173cm;64kg;DEF;
+T. Kolodziejczak;25 años;185cm;73kg;DEF;
+Ganso;27 años;184cm;73kg;MED;
+Vitolo;27 años;183cm;80kg;MED;
+P. Sarabia;24 años;174cm;70kg;MED;
+S. Nasri;29 años;178cm;75kg;MED;
+S. N'Zonzi;27 años;190cm;75kg;MED;
+M. Kranevitter;23 años;178cm;74kg;MED;
+B. Boutobba;18 años;175cm;70kg;MED;
+H. Kiyotake;26 años;172cm;63kg;MED;
+G. Aburdjania;21 años;;;MED;
+M. Krohn-Dehli;33 años;170cm;71kg;MED;
+F. Vázquez;27 años;187cm;87kg;MED;
+S. Cristóforo;23 años;174cm;65kg;MED;
+J. Correa;22 años;184cm;75kg;MED;
+J. Carrascal;18 años;;;MED;
+V. Iborra;28 años;190cm;76kg;MED;
+Juan Muñoz;20 años;182cm;80kg;DEL;
+Y. Konoplyanka;27 años;176cm;69kg;DEL;
+Carlos;20 años;186cm;72kg;DEL;
+W. Ben Yedder;26 años;170cm;68kg;DEL;
+L. Vietto;22 años;173cm;68kg;DEL;
+#Real Sociedad;
+Ander;21 años;192cm;78kg;POR;
+Toño Ramírez;29 años;189cm;79kg;POR;
+G. Rulli;24 años;189cm;80kg;POR;
+Héctor;25 años;173cm;71kg;DEF;
+Í. Martínez;25 años;181cm;77kg;DEF;
+A. Elustondo;22 años;178cm;72kg;DEF;
+Odriozola;20 años;;;DEF;
+Raúl Navas;28 años;178cm;77kg;DEF;
+C. Martínez;30 años;188cm;78kg;DEF;
+Mikel González;31 años;188cm;80kg;DEF;
+Yuri;26 años;181cm;77kg;DEF;
+J. Zaldúa;24 años;169cm;59kg;DEF;
+E. Granero;29 años;179cm;77kg;MED;
+A. Illarramendi;26 años;177cm;74kg;MED;
+Gaztañaga;25 años;182cm;78kg;MED;
+D. Zurutuza;30 años;184cm;78kg;MED;
+Xabi Prieto;33 años;185cm;82kg;MED;
+K. Rodrigues;22 años;169cm;63kg;MED;
+R. Pardo;24 años;182cm;68kg;MED;
+I. Zubeldia;19 años;;;MED;
+Alejandro Sanz;23 años;176cm;68kg;MED;
+M. Oyarzabal;19 años;180cm;75kg;MED;
+S. Canales;25 años;176cm;65kg;MED;
+M. Bergara;30 años;180cm;74kg;MED;
+C. Vela;27 años;180cm;67kg;DEL;
+Juanmi;23 años;169cm;63kg;DEL;
+Willian José;24 años;186cm;87kg;DEL;
+D. Concha;19 años;177cm;62kg;DEL;
+I. Agirretxe;29 años;186cm;77kg;DEL;
+Bautista;21 años;;;DEL;
+#Deportivo;
+P. Tyton;29 años;195cm;80kg;POR;
+Rubén;32 años;187cm;80kg;POR;
+G. Lux;34 años;186cm;77kg;POR;
+Sidnei;27 años;185cm;80kg;DEF;
+Raúl Albentosa;28 años;193cm;89kg;DEF;
+Laure;31 años;165cm;65kg;DEF;
+F. Navarro;34 años;178cm;70kg;DEF;
+Juanfran;28 años;179cm;72kg;DEF;
+Arribas;27 años;182cm;75kg;DEF;
+A. Campeny;19 años;;;DEF;
+Nacho;22 años;;;DEF;
+Luisinho;31 años;175cm;63kg;DEF;
+Bruno Gama;28 años;177cm;71kg;MED;
+Queijeiro;23 años;;;MED;
+C. Borges;28 años;182cm;78kg;MED;
+Guilherme;25 años;178cm;78kg;MED;
+Carles Gil;23 años;170cm;69kg;MED;
+Borja Valle;24 años;178cm;78kg;MED;
+E. Çolak;25 años;168cm;61kg;MED;
+P. Mosquera;28 años;184cm;77kg;MED;
+Álex Bergantiños;31 años;175cm;75kg;MED;
+F. Fajr;28 años;178cm;72kg;MED;
+Oscar Pinchi;20 años;;;MED;
+Lucas;28 años;181cm;78kg;DEL;
+M. Moreno;20 años;171cm;67kg;DEL;
+R. Babel;29 años;185cm;78kg;DEL;
+Joselu;26 años;182cm;71kg;DEL;
+F. Andone;23 años;183cm;73kg;DEL;
+#Espanyol;
+Diego López;35 años;196cm;88kg;POR;
+Roberto;30 años;190cm;85kg;POR;
+Pau López;21 años;189cm;77kg;POR;
+D. Reyes;24 años;189cm;64kg;DEF;
+Víctor Álvarez;23 años;178cm;69kg;DEF;
+Álvaro;26 años;180cm;68kg;DEF;
+M. Ciani;32 años;192cm;88kg;DEF;
+M. Demichelis;35 años;184cm;78kg;DEF;
+Ó. Duarte;27 años;184cm;85kg;DEF;
+R. Duarte;21 años;172cm;68kg;DEF;
+Arbilla;29 años;177cm;75kg;DEF;
+Aaron;19 años;;;DEF;
+Javi López;30 años;180cm;74kg;DEF;
+J. Jurado;30 años;173cm;72kg;MED;
+David López;27 años;185cm;80kg;MED;
+Salva Sevilla;32 años;178cm;70kg;MED;
+avi Fuego;32 años;181cm;74kg;MED;
+J. Reyes;33 años;176cm;76kg;MED;
+Víctor Sánchez;29 años;180cm;73kg;MED;
+P. Diop;30 años;180cm;73kg;MED;
+Álex;24 años;182cm;75kg;MED;
+Marc Roca;19 años;186cm;74kg;MED;
+H. Pérez;27 años;180cm;77kg;MED;
+L. Baptistão;24 años;181cm;71kg;DEL;
+Gerard Moreno;24 años;177cm;75kg;DEL;
+Álvaro Vázquez;25 años;182cm;76kg;DEL;
+F. Caicedo;28 años;185cm;78kg;DEL;
+P. Piatti;27 años;163cm;63kg;DEL;
+#Celta;
+Iván Villar;19 años;;;POR;
+Rubén;21 años;188cm;80kg;POR;
+Nestor;24 años;185cm;73kg;POR;
+Sergio Álvarez;30 años;180cm;75kg;POR;
+Samu;20 años;;;DEF;
+C. Planas;24 años;173cm;77kg;DEF;
+David Costas;21 años;181cm;73kg;DEF;
+A. Fontàs;26 años;185cm;89kg;DEF;
+G. Cabral;31 años;182cm;80kg;DEF;
+Diego Alende;19 años;;;DEF;
+Hugo Mallo;25 años;173cm;69kg;DEF;
+Sergi Gómez;24 años;187cm;80kg;DEF;
+Jonny;22 años;175cm;70kg;DEF;
+F. Roncaglia;29 años;179cm;76kg;DEF;
+Kevin;23 años;173cm;72kg;DEF;
+N. Radoja;23 años;186cm;77kg;MED;
+Cuco Ros;20 años;;;MED;
+P. Hernández;30 años;183cm;76kg;MED;
+M. Diaz;29 años;166cm;67kg;MED;
+P. Cheikh;19 años;180cm;68kg;MED;
+Borja Fernández;21 años;177cm;71kg;MED;
+J. Señé;24 años;185cm;74kg;MED;
+Álvaro Lemos;23 años;175cm;72kg;MED;
+D. Wass;27 años;181cm;74kg;MED;
+Iago Aspas;29 años;176cm;67kg;DEL;
+J. Guidetti;24 años;185cm;79kg;DEL;
+C. Beauvue;28 años;174cm;66kg;DEL;
+Naranjo;22 años;182cm;73kg;DEL;
+T. Bongonda;20 años;177cm;70kg;DEL;
+Borja Iglesias;23 años;187cm;79kg;DEL;
+G. Rossi;29 años;173cm;72kg;DEL;
+D. Dražić;21 años;175cm;69kg;DEL;
+P. Sisto;21 años;171cm;64kg;DEL;
+F. Orellana;30 años;169cm;68kg;DEL;
+#Sporting;
+Mariño;26 años;185cm;75kg;POR;
+I. Cuéllar;32 años;187cm;82kg;POR;
+Ó. Whalley;22 años;186cm;79kg;POR;
+Julio;20 años;194cm;86kg;DEF;
+Ismael López;26 años;180cm;76kg;DEF;
+Lillo;27 años;176cm;71kg;DEF;
+Jorge Meré;19 años;182cm;77kg;DEF;
+Lora;29 años;168cm;67kg;DEF;
+F. Amorebieta;31 años;192cm;85kg;DEF;
+J. Babin;30 años;182cm;84kg;DEF;
+Juan Rodriguez;21 años;177cm;73kg;DEF;
+Canella;28 años;180cm;70kg;DEF;
+Douglas;26 años;171cm;63kg;DEF;
+Sergio Álvarez;24 años;180cm;65kg;MED;
+Xavi Torres;29 años;184cm;82kg;MED;
+Daniel Ndi;21 años;;;MED;
+C. Carmona;29 años;177cm;72kg;MED;
+Víctor Rodríguez;27 años;170cm;70kg;MED;
+Burgui;23 años;185cm;68kg;MED;
+Rachid;23 años;190cm;86kg;MED;
+Moi Gómez;22 años;174cm;65kg;MED;
+Nacho Cases;28 años;175cm;67kg;MED;
+A. Akram;19 años;;;DEL;
+B. Viguera;29 años;184cm;80kg;DEL;
+Castro;21 años;176cm;72kg;DEL;
+D. Čop;26 años;182cm;71kg;DEL;
+#Betis;
+A. Adán;29 años;190cm;92kg;POR;
+Manu Herrera;35 años;181cm;75kg;POR;
+Pedro López;21 años;187cm;80kg;POR;
+Dani Giménez;33 años;182cm;77kg;POR;
+Bruno;26 años;184cm;82kg;DEF;
+A. Mandi;25 años;184cm;78kg;DEF;
+G. Pezzella;25 años;187cm;82kg;DEF;
+José Carlos;20 años;182cm;75kg;DEF;
+Álex Martínez;26 años;176cm;64kg;DEF;
+C. Piccini;24 años;183cm;77kg;DEF;
+Rafa Navarro;22 años;;;DEF;
+R. Durmisi;22 años;168cm;67kg;DEF;
+R. Donk;30 años;190cm;80kg;DEF;
+D. Brasanac;23 años;;;MED;
+J. Martin;26 años;184cm;77kg;MED;
+F. Gutierrez;26 años;170cm;64kg;MED;
+D. Digard;30 años;183cm;82kg;MED;
+F. Kadir;32 años;179cm;73kg;MED;
+M. Nahuel;19 años;175cm;67kg;MED;
+Á. Cejudo;32 años;176cm;74kg;MED;
+Joaquín;35 años;179cm;75kg;MED;
+Fabián;20 años;189cm;70kg;MED;
+D. Ceballos;20 años;176cm;75kg;MED;
+Petros;27 años;182cm;78kg;MED;
+F. Portillo;26 años;169cm;63kg;MED;
+C. Musonda;20 años;173cm;65kg;MED;
+A. Sanabria;20 años;180cm;70kg;DEL;
+R. Zozulya;26 años;175cm;62kg;DEL;
+Alex Alegría;24 años;189cm;82kg;DEL;
+Rubén Castro;35 años;174cm;72kg;DEL;
+#Osasuna;
+Juan Pérez;20 años;192cm;78kg;POR;
+Nauzet;31 años;192cm;90kg;POR;
+Mario;28 años;185cm;74kg;POR;
+A. Fernandez;18 años;;;POR;
+Javi Flaño;32 años;184cm;77kg;DEF;
+Fuentes;26 años;178cm;72kg;DEF;
+Miguel Flaño;32 años;177cm;72kg;DEF;
+Aitor Buñuel;18 años;180cm;74kg;DEF;
+Tano Bonnín;26 años;184cm;74kg;DEF;
+David García;22 años;185cm;72kg;DEF;
+Unai;24 años;182cm;76kg;DEF;
+Carlos Clerc;24 años;182cm;69kg;DEF;
+Oier;30 años;178cm;66kg;DEF;
+Javi Álamo;28 años;190cm;82kg;MED;
+A. Otegui;18 años;175cm;70kg;MED;
+Jaime Romero;26 años;177cm;77kg;MED;
+M. De Las Cuevas;30 años;175cm;69kg;MED;
+Roberto Torres;27 años;176cm;69kg;MED;
+Imanol García;18 años;;;MED;
+G. Čaušić;24 años;;;MED;
+Olavide;20 años;179cm;70kg;MED;
+Fausto;26 años;183cm;75kg;MED;
+D. Digard;30 años;183cm;82kg;MED;
+Fran Mérida;26 años;175cm;75kg;MED;
+Oriol Riera;30 años;184cm;78kg;DEL;
+Álex Berenguer;21 años;175cm;70kg;DEL;
+Álex Sánchez;27 años;180cm;74kg;DEL;
+Sergio León;27 años;178cm;73kg;DEL;
+E. Rivière;26 años;182cm;76kg;DEL;
+K. Kodro;23 años;187cm;72kg;DEL;
+#Alavés;
+F. Pacheco;24 años;186cm;81kg;POR;
+Aritz Castro;18 años;;;POR;
+A. Ortolà;23 años;185cm;70kg;POR;
+Laguardia;27 años;185cm;75kg;DEF;
+Alexis;31 años;183cm;75kg;DEF;
+A. Pantić;24 años;184cm;77kg;DEF;
+Einar Galilea;22 años;182cm;73kg;DEF;
+Raúl García;27 años;175cm;72kg;DEF;
+Carlos Vigaray;22 años;182cm;70kg;DEF;
+Z. Feddal;27 años;192cm;83kg;DEF;
+Theo Hernández;19 años;;;DEF;
+D. Torres;26 años;183cm;80kg;MED;
+Sergio Llamas;23 años;178cm;65kg;MED;
+Marcos Llorente;21 años;182cm;65kg;MED;
+Camarasa;22 años;183cm;76kg;MED;
+N. Krsticic;26 años;182cm;75kg;MED;
+Manu García;30 años;182cm;74kg;MED;
+Kiko Femenía;25 años;171cm;68kg;MED;
+Manuel García;18 años;;;MED;
+A. Katai;25 años;177cm;70kg;MED;
+G. Toquero;32 años;182cm;79kg;DEL;
+Dani Iglesias;21 años;173cm;68kg;DEL;
+Asier;21 años;;;DEL;
+Rubén Sobrino;24 años;182cm;73kg;DEL;
+C. Santos;28 años;184cm;70kg;DEL;
+C. Espinoza;21 años;173cm;68kg;DEL;
+Deyverson;25 años;189cm;82kg;DEL;
+Manu Barreiro;30 años;192cm;81kg;DEL;
+Ibai Gómez;26 años;177cm;72kg;DEL;
+Édgar Méndez;26 años;188cm;78kg;DEL;
+#Granada;
+I. Kelava;28 años;195cm;90kg;POR;
+Oier;27 años;191cm;95kg;POR;
+G. Ochoa;31 años;185cm;78kg;POR;
+Tito;31 años;174cm;62kg;DEF;
+Gabriel Silva;25 años;179cm;75kg;DEF;
+Hongla;18 años;;;DEF;
+D. Lombán;29 años;188cm;84kg;DEF;
+F. Tabanou;27 años;178cm;78kg;DEF;
+G. Silva;22 años;185cm;74kg;DEF;
+L. Martins;24 años;176cm;68kg;DEF;
+D. Foulquier;23 años;182cm;78kg;DEF;
+M. Saunier;26 años;181cm;75kg;DEF;
+Rúben Vezo;22 años;184cm;76kg;DEF;
+M. Carcela-González;27 años;176cm;69kg;MED;
+A. Pereira;20 años;177cm;66kg;MED;
+U. Agbo;20 años;186cm;73kg;MED;
+Samper;21 años;181cm;71kg;MED;
+J. Boga;19 años;172cm;68kg;MED;
+R. Krhin;26 años;189cm;78kg;MED;
+Javi Márquez;30 años;174cm;71kg;MED;
+O. Atzili;23 años;;;MED;
+J. Toral;21 años;183cm;80kg;MED;
+E. Ponce;19 años;167cm;68kg;DEL;
+Barral;33 años;183cm;78kg;DEL;
+A. Kravets;27 años;185cm;75kg;DEL;
+V. Angban;20 años;180cm;70kg;DEL;
+A. Bueno;28 años;178cm;64kg;DEL;
+I. Cuenca;25 años;181cm;74kg;DEL;
+#Las Palmas;
+Javi Varas;34 años;182cm;73kg;POR;
+D. Ramírez;21 años;;;POR;
+Raúl Lizoain;25 años;181cm;71kg;POR;
+M. Lemos;20 años;184cm;80kg;DEF;
+P. Bigas;26 años;180cm;78kg;DEF;
+Aythami Artiles;30 años;185cm;81kg;DEF;
+David García;34 años;180cm;76kg;DEF;
+Michel Macedo;26 años;182cm;76kg;DEF;
+Dani Castellano;29 años;180cm;76kg;DEF;
+David Simón;26 años;178cm;74kg;DEF;
+H. Lopes;27 años;179cm;66kg;DEF;
+M. García;20 años;167cm;55kg;MED;
+Tyronne;25 años;182cm;74kg;MED;
+Momo;34 años;182cm;74kg;MED;
+Hernán;26 años;180cm;74kg;MED;
+Roque Mesa;27 años;171cm;72kg;MED;
+Á. Montoro;28 años;182cm;77kg;MED;
+José Artiles;23 años;167cm;56kg;MED;
+Javi Castellano;29 años;178cm;71kg;MED;
+J. Viera;27 años;170cm;64kg;MED;
+K-P. Boateng;29 años;185cm;86kg;MED;
+N. El Zhar;30 años;170cm;67kg;MED;
+Vicente Gómez;28 años;187cm;77kg;MED;
+Tana;26 años;168cm;65kg;DEL;
+S. Araujo;24 años;180cm;72kg;DEL;
+Asdrúbal;25 años;183cm;75kg;DEL;
+M. Livaja;23 años;182cm;81kg;DEL;
+#Villarreal;
+M. Barbosa;32 años;190cm;77kg;POR;
+S. Asenjo;27 años;189cm;70kg;POR;
+Andrés Fernández;29 años;184cm;86kg;POR;
+M. Musacchio;26 años;180cm;73kg;DEF;
+D. Bonera;35 años;183cm;74kg;DEF;
+A. Rukavina;32 años;178cm;74kg;DEF;
+Álvaro;26 años;180cm;68kg;DEF;
+Jaume Costa;28 años;171cm;65kg;DEF;
+Mario Gaspar;25 años;178cm;71kg;DEF;
+B. Jokic;30 años;176cm;75kg;DEF;
+José Ángel;27 años;182cm;77kg;DEF;
+Víctor Ruiz;27 años;184cm;80kg;DEF;
+Rodrigo;20 años;190cm;88kg;MED;
+M. Trigueros;25 años;178cm;70kg;MED;
+Bruno;32 años;184cm;70kg;MED;
+Samu Castillejo;21 años;179cm;59kg;MED;
+R. Soriano;25 años;182cm;76kg;MED;
+J. Dos Santos;26 años;180cm;74kg;MED;
+Larrea;22 años;;;MED;
+Mario González;20 años;;;MED;
+A. N'diaye;26 años;188cm;94kg;MED;
+D. Cheryshev;25 años;179cm;74kg;DEL;
+R. Soldado;31 años;179cm;81kg;DEL;
+R. Borré;21 años;179cm;70kg;DEL;
+Aitor Cantalapiedra;20 años;177cm;67kg;DEL;
+C. Bakambu;25 años;180cm;70kg;DEL;
+A. Pato;27 años;179cm;78kg;DEL;
+N. Sansone;25 años;175cm;73kg;DEL;
+#Eibar;
+Yoel;28 años;186cm;78kg;POR;
+Areitio;;;;POR;
+A. Riesgo;33 años;185cm;76kg;POR;
+Arbilla;29 años;177cm;75kg;DEF;
+A. Luna;25 años;177cm;68kg;DEF;
+I. Ramis;32 años;188cm;82kg;DEF;
+Mauro;27 años;180cm;76kg;DEF;
+D. Juncá;22 años;175cm;67kg;DEF;
+A. Gálvez;27 años;186cm;80kg;DEF;
+F. Lejeune;25 años;190cm;81kg;DEF;
+Cristian;19 años;190cm;80kg;MED;
+A. Capa;24 años;173cm;70kg;MED;
+T. Inui;28 años;169cm;63kg;MED;
+J. Peleteiro;25 años;180cm;67kg;MED;
+Fran Rico;29 años;178cm;71kg;MED;
+Adrián;28 años;184cm;75kg;MED;
+Pedro León;29 años;182cm;70kg;MED;
+Rubén Peña;25 años;170cm;62kg;MED;
+G. Escalante;23 años;179cm;75kg;MED;
+Dani García;26 años;180cm;75kg;MED;
+Bebé;26 años;190cm;86kg;DEL;
+Sergi Enrich;26 años;181cm;77kg;DEL;
+Nano;21 años;178cm;79kg;DEL;
+Kike;26 años;186cm;79kg;DEL;
+#Leganés;
+A. Brignoli;25 años;189cm;81kg;POR;
+Serantes;27 años;182cm;66kg;POR;
+Víctor Díaz;28 años;185cm;69kg;DEF;
+C. Medjani;31 años;183cm;77kg;DEF;
+Diego Rico;23 años;181cm;75kg;DEF;
+A. Marín;19 años;185cm;70kg;DEF;
+Mantovani;32 años;185cm;78kg;DEF;
+Ínsua;23 años;186cm;75kg;DEF;
+Bustinza;24 años;173cm;73kg;DEF;
+Timor;27 años;185cm;77kg;MED;
+G. Pires;23 años;185cm;74kg;MED;
+Unai López;21 años;170cm;65kg;MED;
+A. Szymanowski;28 años;175cm;63kg;MED;
+Rubén Pérez;27 años;178cm;70kg;MED;
+Robert;23 años;175cm;65kg;MED;
+Alberto;27 años;181cm;70kg;MED;
+A. Dragonetti;21 años;;;MED;
+L. Sastre;30 años;175cm;71kg;MED;
+Omar;28 años;175cm;65kg;MED;
+Toni;26 años;175cm;69kg;MED;
+D. Machís;23 años;170cm;67kg;DEL;
+Luciano Neves;23 años;178cm;69kg;DEL;
+M. Koné;24 años;177cm;73kg;DEL;
+Guerrero;26 años;181cm;76kg;DEL;
+#Málaga;
+Aaron;21 años;188cm;72kg;POR;
+C. Kameni;32 años;186cm;86kg;POR;
+D. Boyko;28 años;197cm;85kg;POR;
+F. Ricca;22 años;176cm;71kg;DEF;
+Iván Rodríguez;20 años;180cm;68kg;DEF;
+R. Rosales;27 años;174cm;73kg;DEF;
+L. Muñoz;19 años;;;DEF;
+B. Koné;28 años;188cm;80kg;DEF;
+M. Torres;30 años;184cm;74kg;DEF;
+M. Villanueva;23 años;190cm;78kg;DEF;
+D. Llorente;23 años;186cm;75kg;DEF;
+Weligton;37 años;186cm;71kg;DEF;
+Jony;25 años;180cm;80kg;MED;
+Duda;36 años;174cm;72kg;MED;
+C. Castro;32 años;176cm;70kg;MED;
+Juan Carlos;26 años;178cm;69kg;MED;
+I. Camacho;26 años;182cm;80kg;MED;
+Javi Ontiveros;19 años;172cm;68kg;MED;
+Z. Kuzmanovic;29 años;186cm;83kg;MED;
+Juanpi;22 años;171cm;68kg;MED;
+Recio;25 años;183cm;74kg;MED;
+Pablo;20 años;178cm;67kg;MED;
+Keko;24 años;172cm;68kg;DEL;
+Sandro;21 años;175cm;68kg;DEL;
+M. Santos;23 años;175cm;62kg;DEL;
+Charles;32 años;179cm;75kg;DEL;
+Y. En Nesyri;19 años;192cm;;DEL
