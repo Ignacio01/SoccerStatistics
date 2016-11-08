@@ -33,11 +33,33 @@ public class CalculationsTeams {
         return topTeam;
     }
 
+<<<<<<< HEAD
+    /**
+     * Order the teams from the file teams.txt in order in function of the points they have
+     * @param teams
+     *  Arraylist which contains all the teams in the league 2016-2017
+     * @return
+     *  returns the arraylist of the teams but sorted by the points they have
+     */
+=======
+>>>>>>> master
     public static ArrayList<Team> sortTeamsPoints(ArrayList<Team> teams){
         Collections.sort(teams);
         return teams;
     }
 
+<<<<<<< HEAD
+    /**
+     * FindTeam allows you to find the information of the team you want to search
+     * @param nameTeam
+     *  This is the name of the team you want to search.
+     * @param teams
+     *  ArrayList that contains all the teams
+     * @return
+     *  Returns the class of the Team you wanted to find.
+     */
+=======
+>>>>>>> master
     public static Team findTeam(String nameTeam, ArrayList<Team> teams){
         for(Team team: teams){
             if(team.getName().equals(nameTeam)){
@@ -53,6 +75,16 @@ public class CalculationsTeams {
 
     }*/
 
+<<<<<<< HEAD
+    /**
+     * This class prints all the team in the console
+     * @param teams
+     *  You pass the arraylist of all the teams
+     * @postcondition
+     *  All the teams stored in the arraylist have been printed on the console.
+     */
+=======
+>>>>>>> master
     public static void printTeams(ArrayList<Team> teams){
         int counter = 1;
         for (Team team: teams){
