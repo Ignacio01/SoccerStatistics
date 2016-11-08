@@ -2,8 +2,11 @@ package Classes;
 
 /**
  * Created by ignacioojanguren on 7/11/16.
+<<<<<<< HEAD
  * This class allows us to create a class that will relate a player with the amount of goals scored, the total time a player
  * has played, and the average time it takes a player to score a gole measured in match time, where a match time is 90 min.
+=======
+>>>>>>> master
  */
 public class GoalsPlayer {
     
