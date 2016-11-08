@@ -2,11 +2,8 @@ package Classes;
 
 /**
  * Created by ignacioojanguren on 7/11/16.
-<<<<<<< HEAD
  * This class allows us to create a class that will relate a player with the amount of goals scored, the total time a player
  * has played, and the average time it takes a player to score a gole measured in match time, where a match time is 90 min.
-=======
->>>>>>> master
  */
 public class GoalsPlayer {
     
@@ -31,12 +28,4 @@ public class GoalsPlayer {
     public int getTimePlayed() {return timePlayed;}
     public Player getPlayer() {return player;}
     public String getAvgGoalGame() {return avgGoalGame;}
-
-    public double calculateProbability(Match nextMatch){
-        /**
-         * Calculate the probability a player has to score a goal given the conditions of the position of their teams,
-         * the victories of their teams and where is the next match going to be played, if it is home or not.
-         */
-        return 0.0;
-    }
 }

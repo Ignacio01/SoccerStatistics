@@ -14,7 +14,6 @@ import java.util.Date;
  * Created by ignacioojanguren on 4/11/16.
  */
 public class ReadMatches {
-    private File readFile;
 
     /**
      * ReadContent opens the file that the program is going to read

@@ -18,8 +18,6 @@ import java.util.ArrayList;
  */
 public class ReadTeams {
 
-    private File readFile;
-
     /**
      * ReadContent opens the file that the program is going to read
      * @param fileName
@@ -85,7 +83,4 @@ public class ReadTeams {
         }
         return teamsList;
     }
-
-
-
 }
