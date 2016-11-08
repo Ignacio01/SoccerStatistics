@@ -2,6 +2,15 @@ package Classes;
 
 /**
  * Created by ignacioojanguren on 3/11/16.
+ *
+ * This class contains the data of a player
+ *  A player has a name.
+ *  A player plays in a team.
+ *  A player plays in a position.
+ *  If the player is holder.
+ *
+ * The methods in the class are the getters and setters.
+ * Also Override the class toString()
  */
 public class Player {
 
