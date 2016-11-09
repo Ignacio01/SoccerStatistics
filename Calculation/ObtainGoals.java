@@ -42,8 +42,8 @@ public class ObtainGoals {
 
         BufferedReader br = readContent();
         String line;
-        String[] lineSplit = {""};
-        String name;
+        String[] lineSplit = {""}, obtainNameTeam;
+        String name, teamName = "";
         String goals;
         String minutes;
         String sentenceCleaned;
@@ -78,8 +78,18 @@ public class ObtainGoals {
                                     cnt = 0;
                                 }
                             }
-                            writer.write(sentenceCleaned);
+                        }else if(lineSplit[1].equals("<td>") && lineSplit.length>4){
+                            if(lineSplit[3].equals("<a")){
+                                obtainNameTeam = lineSplit[4].split(";");
+                                obtainNameTeam = obtainNameTeam[2].split("=");
+                                if(obtainNameTeam[0].equals("filtro")){
+                                    teamName = obtainNameTeam[1];
+                                    teamName = teamName.substring(0, 3);// This removes the " behind the name of the team
+                                    sentenceCleaned += teamName + ";";
+                                }
+                            }
                         }
+                        writer.write(sentenceCleaned);
                     }
 
 

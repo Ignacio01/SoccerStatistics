@@ -117,11 +117,13 @@ public class CreateTeamsStats {
         BufferedReader br = CreateTeamsStats.readContent();
         Team team;
         String teamName;
+        String[] nameTypes;
         try{
             PrintWriter writer = new PrintWriter
                     ("/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/teams.txt", "UTF-8");
             while( (teamName = br.readLine()) != null){
-                team = obtainStats(teamName, matches);
+                nameTypes = teamName.split(";");
+                team = obtainStats(nameTypes[0], matches);
                 writer.write(team.getName()+";"+team.getPoints()+";"+team.getGoalsFor()+";"+ team.getGoalsAgainst() + "\n");
             }
             writer.close();
