@@ -12,8 +12,9 @@ import java.util.ArrayList;
  * Created by ignacioojanguren on 3/11/16.
  */
 public class main {
-    final static String fileTeams = "File";
-    final static String fileMatch = "File";
+    final static String fileTeams = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/teams.txt";
+    final static String fileMatch = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/match.txt";
+    final static String fileGoals = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/finalGoalPlayers.txt";
     public static void main(String[] args){
         ArrayList<Team> listTeams = ReadTeams.getTeams(fileTeams);
         System.out.println("The team leading the league is:");

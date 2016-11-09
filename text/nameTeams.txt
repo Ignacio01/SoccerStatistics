@@ -1,20 +1,20 @@
-Alavés
-Athletic de Bilbao
-Atlético de Madrid
-Barcelona
-Betis
-Celta
-Deportivo
-Eibar
-Espanyol
-Granada
-Las Palmas
-Leganés
-Málaga
-Osasuna
-Real Madrid
-Real Sociedad
-Sevilla
-Sporting
-Valencia
-Villarreal
+Alavés;ala
+Athletic de Bilbao;ath
+Atlético de Madrid;
+Barcelona;bar
+Betis;bet
+Celta;cel
+Deportivo;dep
+Eibar;eib
+Espanyol;esp
+Granada;gra
+Las Palmas;lpa
+Leganés;leg
+Málaga;mal
+Osasuna;osa
+Real Madrid;rma
+Real Sociedad;rso
+Sevilla;sev
+Sporting;spo
+Valencia;val
+Villarreal;vil

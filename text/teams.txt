@@ -1,20 +1,20 @@
-Alavés;10;10;15
-Athletic de Bilbao;16;15;13
-Atlético de Madrid;21;25;6
-Barcelona;22;30;12
-Betis;11;11;20
-Celta;14;16;20
-Deportivo;9;7;15
-Eibar;15;16;14
-Espanyol;11;13;17
-Granada;3;8;24
-Las Palmas;13;20;18
-Leganés;10;9;19
-Málaga;12;14;14
-Osasuna;7;12;20
-Real Madrid;24;28;10
-Real Sociedad;16;16;12
-Sevilla;21;18;13
-Sporting;9;8;19
-Valencia;10;14;19
-Villarreal;19;17;7
+Alavés;10;10;15;ala
+Athletic de Bilbao;16;15;13;ath
+Atlético de Madrid;21;25;6;atm
+Barcelona;22;30;12;bar
+Betis;11;11;20;bet
+Celta;14;16;20;cel
+Deportivo;9;7;15;dep
+Eibar;15;16;14;eib
+Espanyol;11;13;17;esp
+Granada;3;8;24;gra
+Las Palmas;13;20;18;lpa
+Leganés;10;9;19;leg
+Málaga;12;14;14;mal
+Osasuna;7;12;20;osa
+Real Madrid;24;28;10;rma
+Real Sociedad;16;16;12;rso
+Sevilla;21;18;13;sev
+Sporting;9;8;19;spo
+Valencia;10;14;19;val
+Villarreal;19;17;7;vil

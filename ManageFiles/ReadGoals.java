@@ -25,7 +25,12 @@ public class ReadGoals {
         return br;
     }
 
-
+    /**
+     * This class obtains from every player all the goals he has scored.
+     * @param fileName
+     * @param teamsList
+     * @return
+     */
     public static ArrayList<Player> getGoals(String fileName,ArrayList<Team> teamsList){
 
         BufferedReader br = readContent(fileName);
