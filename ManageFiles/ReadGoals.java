@@ -1,5 +1,6 @@
 package ManageFiles;
 
+import Classes.GoalsPlayer;
 import Classes.Player;
 import Classes.Team;
 
@@ -8,6 +9,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Created by ignacioojanguren on 8/11/16.
@@ -31,30 +33,42 @@ public class ReadGoals {
      * @param teamsList
      * @return
      */
-    public static ArrayList<Player> getGoals(String fileName,ArrayList<Team> teamsList){
+    public static ArrayList<GoalsPlayer> getGoals(String fileName, ArrayList<Team> teamsList){
 
         BufferedReader br = readContent(fileName);
+        BufferedReader brTeams = readContent("/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/nameTeams.txt");
         if(readContent(fileName) == null){return null;}
-        String line, playerName = "", teamName = "", position = "";
-        String[] lineSplit = {""};
+        String line, playerName = "", teamName = "", position = "", goals = "", minutesPlayed = "", avgGoal ="";
+        String[] lineSplit = {""}, lineTeamSplit = {""};
 
-        ArrayList<Player> playerList = new ArrayList<Player>();
+        ArrayList<GoalsPlayer> goalsList = new ArrayList<GoalsPlayer>();
+        HashMap<String,String> teamAbreviations = new HashMap<String,String>();
+        GoalsPlayer goalPlayer;
         Player player;
         Team teamPlayer = null;
 
         try{
+            while((line = brTeams.readLine()) != null){
+                lineTeamSplit = line.split(";");
+                teamAbreviations.put(lineTeamSplit[1], lineTeamSplit[0]);
+            }
+
             while( (line = br.readLine()) != null){
                 lineSplit = line.split(";");
-                if(lineSplit[0].charAt(0) == '#'){teamName = lineSplit[0];}
-                else{
-                    for(Team team : teamsList){
-                        if(teamName.contains(team.getName())){teamPlayer = team; break;}
+                teamName = lineSplit[0];
+                teamName = teamAbreviations.get(teamName);
+                playerName = lineSplit[1];
+                goals = lineSplit[2];
+                minutesPlayed = lineSplit[3];
+                avgGoal = lineSplit[4];
+                for(Team team : teamsList) {
+                    if (team.getName().equals(teamName)) {
+                        teamPlayer = team;
                     }
-                    playerName = lineSplit[0];
-                    position = lineSplit[4];
                 }
-                player = new Player(playerName, teamPlayer, position);
-                playerList.add(player);
+                player = new Player(playerName,teamPlayer,"unknown");
+                goalPlayer = new GoalsPlayer(player, Integer.parseInt(goals), Integer.parseInt(minutesPlayed), avgGoal);
+                goalsList.add(goalPlayer);
             }
         }catch(IOException ex){
             ex.printStackTrace();
@@ -65,7 +79,7 @@ public class ReadGoals {
                 close.printStackTrace();
             }
         }
-        return playerList;
+        return goalsList;
     }
 
 }

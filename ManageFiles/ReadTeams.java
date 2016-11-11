@@ -83,4 +83,13 @@ public class ReadTeams {
         }
         return teamsList;
     }
+
+    public static Team getTeam(String nameTeam, String fileName){
+        ArrayList<Team> teams = getTeams(fileName);
+        for (Team team: teams){
+            if(team.getName().equals(nameTeam)) return team;
+        }
+        return null;
+    }
+
 }
