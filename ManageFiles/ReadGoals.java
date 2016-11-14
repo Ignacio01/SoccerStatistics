@@ -8,6 +8,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -15,6 +16,9 @@ import java.util.HashMap;
  * Created by ignacioojanguren on 8/11/16.
  */
 public class ReadGoals {
+
+    public ReadGoals(){
+    }
 
     private static BufferedReader readContent(String fileName){
         BufferedReader br = null;
@@ -80,6 +84,13 @@ public class ReadGoals {
             }
         }
         return goalsList;
+    }
+
+    public static GoalsPlayer getPlayerGoals(String playerName, ArrayList<GoalsPlayer> playersGoals){
+        for (GoalsPlayer goals : playersGoals){
+            if(goals.getPlayer().getName().equals(playerName))return goals;
+        }
+        return null;
     }
 
 }
