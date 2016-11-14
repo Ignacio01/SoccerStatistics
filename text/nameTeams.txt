@@ -1,6 +1,6 @@
 Alavés;ala
 Athletic de Bilbao;ath
-Atlético de Madrid;
+Atlético de Madrid;atm
 Barcelona;bar
 Betis;bet
 Celta;cel
