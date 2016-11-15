@@ -1,5 +1,6 @@
 import Calculation.CalculateMatches;
 import Calculation.CalculationsTeams;
+import Calculation.ObtainGoals;
 import Calculation.Probabilities;
 import Classes.GoalsPlayer;
 import Classes.Match;
@@ -21,6 +22,10 @@ public class main {
     final static String fileComunioPlayers = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/playersComunio";
 
     public static void main(String[] args){
+        // Recalculate the points are correct.
+        ObtainGoals.getMatches();
+
+
         Scanner s = new Scanner(System.in);
         ArrayList<Team> listTeams = ReadTeams.getTeams(fileTeams);
         System.out.println("The team leading the league is:");

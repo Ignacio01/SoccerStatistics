@@ -1,11 +1,11 @@
 # dateMatch;season;localTeam;visitantTeam;result;
 # Jornada 1
-08/20/16;2016-2017;Málaga;Osasuna;1-1;
-08/20/16;2016-2017;Deportivo;Eibar;2-1;
-08/20/16;2016-2017;Barcelona;Betis;6-2;
-08/20/16;2016-2017;Granada;Villarreal;1-1;
-08/20/16;2016-2017;Sevilla;Espanyol;6-4;
-08/20/16;2016-2017;Sporting;Athletic de Bilbao;2-1;
+08/20/16;2016-2017;Málaga;Osasuna;1-1;Juanpi;Fran Mérida
+08/20/16;2016-2017;Deportivo;Eibar;2-1;Ramis;Mosquera;Lucas;
+08/20/16;2016-2017;Barcelona;Betis;6-2;Arda;Rubén Castro;Messi;Luis Suárez;Luis Suárez;Messi;Luis Suárez;Rubén Castro;
+08/20/16;2016-2017;Granada;Villarreal;1-1;Samu Castillejo;Ezequiel Ponce;
+08/20/16;2016-2017;Sevilla;Espanyol;6-4;Piatti;Sarabia;Vietto;Hernán Pérez;Víctor Sánchez;Vietto;Franco Vázquez;Ben Yedder;Kiyotake;Gerard
+08/20/16;2016-2017;Sporting;Athletic de Bilbao;2-1;Cop;Victor Rodriguez;Viguera
 08/20/16;2016-2017;Real Sociedad;Real Madrid;0-3;
 08/20/16;2016-2017;Atlético de Madrid;Alavés;1-1;
 08/20/16;2016-2017;Celta;Leganés;0-1;
