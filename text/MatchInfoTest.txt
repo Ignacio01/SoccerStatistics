@@ -1,0 +1,122 @@
+# Jornada 1
+2016-08-20;2016-2017;Barcelona;Betis;6-2;,Arda,Rubén Castro,Messi,Luis Suárez,Luis Suárez,Messi,Luis Suárez,Rubén Castro
+2016-08-20;2016-2017;Granada;Villarreal;1-1;,Samu Castillejo,Ezequiel Ponce
+2016-08-20;2016-2017;Sevilla;Espanyol;6-4;,Piatti,Sarabia,Vietto,Hernán Pérez,Víctor Sánchez,Vietto,Franco Vázquez,Ben Yedder,Kiyotake,Gerard
+2016-08-19;2016-2017;Málaga;Osasuna;1-1;,Juanpi,Fran Mérida
+2016-08-19;2016-2017;Deportivo;Eibar;2-1;,Ramis,Mosquera,Lucas
+2016-08-21;2016-2017;Sporting;Athletic;2-1;,Cop,Victor Rodriguez,Viguera
+2016-08-21;2016-2017;Real Sociedad;Real Madrid;0-3;;,Bale,Marco Asensio,Bale
+2016-08-21;2016-2017;Atlético;Alavés;1-1;,Gameiro,Manu García
+2016-08-22;2016-2017;Celta;Leganés;0-1;,Víctor Díaz
+# Jornada 2
+2016-08-22;2016-2017;Celta;Palmas;2-4;;,Santi Mina,Livaja,Jonathan Viera,Boateng,Santi Mina,Livaja
+2016-08-27;2016-2017;Celta;Sociedad;0-2;;,Juanmi,Unai García
+2016-08-27;2016-2017;Eibar;Valencia;1-0;,Pedro León
+2016-08-27;2016-2017;Real Madrid;Celta;2-1;;,Morata,Orellana,Kroos
+2016-08-27;2016-2017;Leganés;Atlético;0-0;
+2016-08-26;2016-2017;Betis;Deportivo;0-0;
+2016-08-26;2016-2017;Espanyol;Málaga;2-2;,Gerard,Gerard,Llorente,Charles
+2016-08-28;2016-2017;Alavés;Sporting;0-0;
+2016-08-28;2016-2017;Las Palmas;Granada;5-1;;,El Zhar,J. Boga,Boateng,El Zhar,Momo,Araujo
+2016-08-28;2016-2017;Athletic;Barcelona;0-1;,Rakitic
+# Jornada 3
+2016-08-28;2016-2017;Villarreal;Sevilla;0-0;
+2016-09-09;2016-2017;Real Sociedad;Espanyol;1-1;;,Piatti,Willian José
+2016-09-10;2016-2017;Celta;Atlético;0-4;,Koke,Griezmann,Griezmann,Correa
+2016-09-10;2016-2017;Real Madrid;Osasuna;5-2;;,Cristiano,Danilo,Sergio Ramos,Pepe,Modric,Oriol Riera,David García
+2016-09-10;2016-2017;Real Madrid;Palmas;2-1;;,Tana,Sarabia,Carlos Fernández
+2016-09-10;2016-2017;Málaga;Villarreal;0-2;,Jaume Costa,Sansone
+2016-09-10;2016-2017;Barcelona;Alavés;1-2;,Deyverson,Mathieu,Ibai Gómez
+2016-09-11;2016-2017;Sporting;Leganés;2-1;,Nacho Cases,Cop,Diego Rico
+2016-09-11;2016-2017;Valencia;Betis;2-3;,Rubén Castro,Joaquín,Rodrigo,Garay,Rubén Castro
+2016-09-11;2016-2017;Granada;Eibar;1-2;,Pedro León,Kravets,Enrich
+# Jornada 4
+2016-09-11;2016-2017;Deportivo;Athletic;0-1;,Raúl García
+2016-09-17;2016-2017;Leganés;Barcelona;1-5;,Messi,Luis Suárez,Neymar,Messi,Rafinha,Gabriel Pires
+2016-09-17;2016-2017;Atlético;Sporting;5-0;,Griezmann,Gameiro,Griezmann,Fernando Torres,Fernando Torres
+2016-09-17;2016-2017;Eibar;Sevilla;1-1;,Vietto,Pedro León
+2016-09-17;2016-2017;Las Palmas;Málaga;1-0;;,Momo
+2016-09-16;2016-2017;Betis;Granada;2-2;,Carcela-González,Bueno,Álex,Álex
+2016-09-18;2016-2017;Osasuna;Celta;0-0;
+2016-09-18;2016-2017;Athletic;Valencia;2-1;,Medrán,Aduriz,Aduriz
+2016-09-18;2016-2017;Athletic;Sociedad;2-1;;,Sansone,Sansone,Yuri
+2016-09-18;2016-2017;Athletic;Madrid;0-2;;,James,Benzema
+# Jornada 5
+2016-09-19;2016-2017;Alavés;Deportivo;0-0;
+2016-09-20;2016-2017;Málaga;Eibar;2-1;,Nano,Sandro,Youssef En-Nesyri
+2016-09-20;2016-2017;Sevilla;Betis;1-0;,Mercado
+2016-09-21;2016-2017;Celta;Sporting;2-1;,Hugo Mallo,Cop,Aspas
+2016-09-21;2016-2017;Real Madrid;Villarreal;1-1;;,Bruno,Sergio Ramos
+2016-09-21;2016-2017;Barcelona;Atlético;1-1;,Rakitic,Correa
+2016-09-21;2016-2017;Real Sociedad;Las Palmas;4-1;;,Willian José,Vela,Zurutuza,Willian José,Tana
+2016-09-21;2016-2017;Granada;Athletic;1-2;,Raúl García,Carcela-González,Laporte
+2016-09-22;2016-2017;Deportivo;Leganés;1-2;,Borges,Luciano,Gabriel Pires
+2016-09-22;2016-2017;Osasuna;Espanyol;1-2;,Leo Baptistao,Sergio León,Gerard
+# Jornada 6
+2016-09-22;2016-2017;Valencia;Alavés;2-1;,Laguardia,Toquero,Parejo
+2016-09-25;2016-2017;Leganés;Valencia;1-2;,Alexander,Nani,Mario Suárez
+2016-09-25;2016-2017;Atlético;Deportivo;1-0;,Griezmann
+2016-09-25;2016-2017;Villarreal;Osasuna;3-1;,Pato,Bruno,Sansone,Roberto Torres
+2016-09-25;2016-2017;Espanyol;Celta;0-2;,Rossi,Pione Sisto
+2016-09-23;2016-2017;Betis;Málaga;1-0;,Joaquín
+2016-09-24;2016-2017;Betis;Sociedad;2-0;;,Illarramendi,Bebé
+2016-09-24;2016-2017;Sporting;Barcelona;0-5;,Luis Suárez,Rafinha,Neymar,Arda,Neymar
+2016-09-24;2016-2017;Athletic;Sevilla;3-1;,San José,Nasri,Balenziaga,Aduriz
+2016-09-24;2016-2017;Las Palmas;Real Madrid;2-2;;,Marco Asensio,Tana,Benzema,Araujo
+# Jornada 7
+2016-09-26;2016-2017;Alavés;Granada;3-1;,Edgar,Camarasa,Kravets,Deyverson
+2016-09-30;2016-2017;Real Sociedad;Betis;1-0;;,Vela
+2016-10-01;2016-2017;Granada;Leganés;0-1;,Alexander
+2016-10-01;2016-2017;Sevilla;Alavés;2-1;,Ben Yedder,Laguardia,Ben Yedder
+2016-10-01;2016-2017;Sevilla;Palmas;2-2;;,Roberto Torres,Sergio León,Vicente Gómez,David García
+2016-10-01;2016-2017;Deportivo;Sporting;2-1;,Borges,Sergio Álvarez,Babel
+2016-10-02;2016-2017;Valencia;Atlético;0-2;,Griezmann,Gameiro
+2016-10-02;2016-2017;Real Madrid;Eibar;1-1;;,Fran Rico,Bale
+2016-10-02;2016-2017;Espanyol;Villarreal;0-0;
+2016-10-02;2016-2017;Málaga;Athletic;2-1;,Aduriz,Sandro,Duda
+# Jornada 8
+2016-10-02;2016-2017;Celta;Barcelona;4-3;,Pione Sisto,Aspas,Mathieu,Piqué,Neymar,Pablo Hernández,Piqué
+2016-10-16;2016-2017;Alavés;Málaga;1-1;,Deyverson,Rosales
+2016-10-16;2016-2017;Alavés;Sociedad;3-2;;,Zurutuza,Muniain,Aduriz,Williams,Íñigo Martínez
+2016-10-16;2016-2017;Sporting;Valencia;1-2;,Mario Suárez,Carlos,Mario Suárez
+2016-10-16;2016-2017;Villarreal;Celta;5-0;,Soriano,Soriano,Bakambu,Wass,Trigueros
+2016-10-14;2016-2017;Las Palmas;Espanyol;0-0;;
+2016-10-15;2016-2017;Leganés;Sevilla;2-3;,Franco Vázquez,Nasri,Timor,Alexander,Sarabia
+2016-10-15;2016-2017;Barcelona;Deportivo;4-0;,Rafinha,Rafinha,Luis Suárez,Messi
+2016-10-15;2016-2017;Atlético;Granada;7-1;,Isaac Cuenca,Carrasco,Carrasco,Carrasco,Gaitán,Gaitán,Correa,Tiago
+2016-10-15;2016-2017;Atlético;Madrid;1-6;;,Varane,Benzema,Marcelo,Isco,Cejudo,Isco,Cristiano
+# Jornada 9
+2016-10-17;2016-2017;Eibar;Osasuna;2-3;,Escalante,Sergio León,Sergio León,Enrich,Roberto Torres
+2016-10-23;2016-2017;Celta;Deportivo;4-1;,Hugo Mallo,Albentosa,Aspas,Orellana,Aspas
+2016-10-23;2016-2017;Sevilla;Atlético;1-0;,N'Zonzi
+2016-10-23;2016-2017;Málaga;Leganés;4-0;,Jony,Chory,Sandro,Camacho
+2016-10-23;2016-2017;Málaga;Palmas;2-1;;,Boateng,Sansone,Bakambu
+2016-10-23;2016-2017;Real Madrid;Athletic;2-1;;,Benzema,Sabin,Morata
+2016-10-21;2016-2017;Osasuna;Betis;1-2;,Joaquín,Roberto Torres,Felipe Gutiérrez
+2016-10-22;2016-2017;Espanyol;Eibar;3-3;,Enrich,Diego Reyes,Kike,Hernán Pérez,Piatti,Leo Baptistao
+2016-10-22;2016-2017;Valencia;Barcelona;2-3;,Messi,Munir,Rodrigo,Luis Suárez,Messi
+2016-10-22;2016-2017;Real Sociedad;Alavés;3-0;;,Xabi Prieto,Willian José,Vela
+# Jornada 10
+2016-10-22;2016-2017;Granada;Sporting;0-0;
+2016-10-28;2016-2017;Granada;Sociedad;0-2;;,Willian José,Xabi Prieto
+2016-10-29;2016-2017;Sporting;Sevilla;1-1;,Vietto,Moi Gómez
+2016-10-29;2016-2017;Sporting;Madrid;1-4;;,Deyverson,Cristiano,Cristiano,Morata,Cristiano
+2016-10-29;2016-2017;Atlético;Málaga;4-2;,Carrasco,Gameiro,Sandro,Gameiro,Camacho,Carrasco
+2016-10-29;2016-2017;Barcelona;Granada;1-0;,Rafinha
+2016-10-30;2016-2017;Eibar;Villarreal;2-1;,Bruno,Ramis,Pedro León
+2016-10-30;2016-2017;Athletic;Osasuna;1-1;,Oriol Riera,Raúl García
+2016-10-30;2016-2017;Betis;Espanyol;0-1;,Diego Reyes
+2016-10-30;2016-2017;Las Palmas;Celta;3-3;;,Wass,Aspas,Aspas,Bigas,Jonathan Viera,Boateng
+# Jornada 11
+2016-10-31;2016-2017;Deportivo;Valencia;1-1;,Emre Colak,Rodrigo
+2016-11-05;2016-2017;Granada;Deportivo;1-1;,Florin Andone,Tyton
+2016-11-05;2016-2017;Real Sociedad;Atlético;2-0;;,Vela,Willian José
+2016-11-05;2016-2017;Osasuna;Alavés;0-1;,Christian Santos
+2016-11-05;2016-2017;Las Palmas;Eibar;1-0;;,Jonathan Viera
+2016-11-04;2016-2017;Málaga;Sporting;3-2;,Viguera,Fornals,Cop,Sandro,Michael Santos
+2016-11-06;2016-2017;Real Madrid;Leganés;3-0;;,Bale,Bale,Morata
+2016-11-06;2016-2017;Celta;Valencia;2-1;,Parejo,Roncaglia,Guidetti
+2016-11-06;2016-2017;Espanyol;Athletic;0-0;
+2016-11-06;2016-2017;Villarreal;Betis;2-0;,Trigueros,Soriano
+The first line
+The second line
