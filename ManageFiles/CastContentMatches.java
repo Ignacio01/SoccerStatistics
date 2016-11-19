@@ -6,13 +6,32 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-/**
+/**************************************************************************
  * Created by ignacioojanguren on 14/11/16.
- */
+ *
+ *
+ * The class CastContentMatches is encharged to read an HTML document,
+ * The HTML document contains all the information from a Match:
+ *      · What teams played.
+ *      · The final result.
+ *      · When they played.
+ *      · Who scored.
+ *
+ * This option will allow us to obtain more information about who scored and against who they scored and
+ * in what position in the table were at the moment.
+ *
+ *
+ *************************************************************************/
 public class CastContentMatches {
 
     final static String fileName = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/ContentHtmlMatches";
     final static String fileToWrite = "/Users/ignacioojanguren/IdeaProjects/StatisticsFutbol/src/text/MatchInfoTest.txt";
+
+    /**
+     * This class opens and reads the content of the file
+     * @return
+     *  Returns a BufferedReader to be able to read in the method cleanDocument.
+     */
     private static BufferedReader readContent(){
         BufferedReader br = null;
         try{
@@ -25,6 +44,24 @@ public class CastContentMatches {
     }
 
 
+    /**
+     * CleanDocument is encharged to clean the HTML text and stores the information in an arrayList.
+     * We will pass to the method "writeInformation" and it will write the content of the Arraylist to a document.txt
+     * We are finding patterns for the content of the useful information to be able to retrieve it.
+     *
+     * Jornada: is the equivalent of Journey, it returns the number of matches played so far.
+     * DateMatch: contains the date that match was played
+     * Result: contains the result of the match
+     * LocalTeam: contains the name of the team that was playing at home
+     * VisitantTeam: contains the name of the team that was not playing at home.
+     * Scorers: players that scored a Goal.
+     *
+     * For every match we will store it in an array, and after we will add the array to the arrayList
+     *
+     * @Poscondition:
+     *  The values of every match will be stored in an array and those arrays will be stored in an ArrayList
+     *
+     */
     public static void cleanDocument(){
         BufferedReader br = readContent();
 
@@ -97,6 +134,20 @@ public class CastContentMatches {
 
     }
 
+    /**
+     * This method receive the ArrayList with the information from all the matches.
+     * The method will write the information from that arrayList in a document.txt
+     * The information will be written the following way:
+     *  #Jornada *number*
+     *  dateMatch;2016-2017;localTeam;visitantTeam;result;scorer1,scorer2,scorer3...;
+     *  ...
+     * The information will be writen the same way for every match.
+     * @param infoMatches
+     *  ArrayList that contains an array for every match played so far.
+     *
+     * @postcondition
+     *  The information will be printed correctly in the document.txt
+     */
     public static void writeInformation(ArrayList<String[]>infoMatches){
         PrintWriter writer = null;
         String jornada = "";
@@ -119,6 +170,16 @@ public class CastContentMatches {
         writer.close();
     }
 
+    /**
+     * This method finds in an array that contains string the information we want to find.
+     *
+     * @param array
+     *  This is the array were we want to find the information.
+     * @param valueSearch
+     *  The String we want to find in the array.
+     * @return
+     *  Returns true if the value was found, returns false if the value wasn't found
+     */
     public static boolean arrayContains(String[]array, String valueSearch){
 
         for(int i = 0; i < array.length;i++){
